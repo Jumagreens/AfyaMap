@@ -10,10 +10,23 @@ $(function() {
   L.control.locate().addTo(map);
 
   // add search
-  // var searchLayer = function() {};
-  // map.addControl( new L.Control.Search({ layer: searchLayer }) );
+  var searchLayer = function(query, cb) {
+    var d = $.Deferred()
 
+    // [{"loc":[41.57573,13.002411],"title":"black"},{"loc":[41.807149,13.162994],"title":"blue"}]
+    var json = data.features.map(function(f) { return {loc: [f.geometry.coordinates[1], f.geometry.coordinates[0]], title: f.properties.name}} )
+    // return d.resolve(json)
+
+    json = json.filter(function(result) {
+      return RegExp(query.toLowerCase()).test(result.title.toLowerCase())
+    })
+    cb(json)
+  };
+  map.addControl( new L.Control.Search({ callData: searchLayer }) );
+
+  var data;
   $.getJSON('afyamap.geojson').then(function(geoJSON) {
+    data = geoJSON;
     var options = {
       onEachFeature: onEachFeature
     }
