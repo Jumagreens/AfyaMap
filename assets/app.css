@@ -9,3 +9,10 @@ html, body {
   right: 0;
   bottom: 0;
 }
+
+th {
+  padding-right: 10px;
+}
+td {
+  white-space: nowrap;
+}

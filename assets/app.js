@@ -7,8 +7,21 @@ $(function() {
   }).addTo(map);
 
   $.getJSON('test.geojson').then(function(geoJSON) {
-    L.geoJson(geoJSON).addTo(map);
+    var options = {
+      onEachFeature: onEachFeature
+    }
+    L.geoJson(geoJSON, options).addTo(map);
   })
+
+  function onEachFeature (feature, layer) {
+    // does this feature have a property named popupContent?
+    var html = '<table>';
+    for (property in feature.properties) {
+      html += "<tr><th>"+property+"</th><td>"+feature.properties[property]+"</td></tr>"
+    }
+    html += '</table>'
+    layer.bindPopup(html);
+  }
 });
 
 
