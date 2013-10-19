@@ -37,6 +37,22 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Magomeni Hospital",
+                "address": "Magomeni Mikumi",
+                "city": "Dar es Salaam",
+                "phone": "+255 (22) 2171871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   39.257886s,
+                    -6.806561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Amana Hospital",
                 "address": "Ilala",
                 "city": "Dar es Salaam",
