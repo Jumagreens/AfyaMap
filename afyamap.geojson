@@ -65,6 +65,22 @@
                     -6.826352
                 ]
             }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "name": "Temeke Hospital",
+                "address": "Temeke",
+                "city": "Dar es Salaam",
+                "phone": "+255 (22)2856515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.311910,
+                    -6.828105
+                ]
+            }
         }
         
     ]
