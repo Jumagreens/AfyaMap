@@ -4,9 +4,9 @@
     "description": "Tanzania Health Initiatives",
     "launch_path": "/index.html",
     "icons": {
-        "16": "/assets/icons/afymap_icon_16.png",
-        "48": "/assets/icons/afymap_icon_48.png",
-        "128": "/assets/icons/afymap_icon_128.png"
+        "16": "/assets/icons/afyamap_icon_16.png",
+        "48": "/assets/icons/afyamap_icon_48.png",
+        "128": "/assets/icons/afyamap_icon_128.png"
     },
     "developer": {
         "name": "Jumanne",
