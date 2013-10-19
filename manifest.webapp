@@ -1,0 +1,20 @@
+{
+    "version": "0.1",
+    "name": "AfyaMap",
+    "description": "Tanzania Health Initiatives",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/img/icons/mortar-16.png",
+        "48": "/img/icons/mortar-48.png",
+        "128": "/img/icons/mortar-128.png"
+    },
+    "developer": {
+        "name": "Jumanne",
+        "url": "https://github.com/jumagreens/"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en",
+    "permissions": {
+        "systemXHR": {}
+    }
+}
