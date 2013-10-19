@@ -16,3 +16,17 @@ th {
 td {
   white-space: nowrap;
 }
+
+h1 {
+  position: fixed;
+  z-index: 2;
+  text-align: right;
+  right: 0;
+  font-family: Helvetica, Arial;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+}
+h1 small {
+  display: block;
+  font-weight: normal;
+}
