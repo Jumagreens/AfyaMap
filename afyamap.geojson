@@ -33,7 +33,24 @@
                     -6.787154
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amana Hospital",
+                "address": "Ilala",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 2151364-9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.258927,
+                    -6.826352
+                ]
+            }
         }
+        
     ]
 }
 
