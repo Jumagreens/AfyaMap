@@ -23,7 +23,8 @@
             "properties": {
                 "name": "Mwananyamala Hospital",
                 "address": "Makumbusho",
-                "city": "Dar es Salaam"
+                "city": "Dar es Salaam",
+                "phone": "+255 22 276 0499"
             },
             "geometry": {
                 "type": "Point",
