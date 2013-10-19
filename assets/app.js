@@ -6,7 +6,7 @@ $(function() {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
-  $.getJSON('test.geojson').then(function(geoJSON) {
+  $.getJSON('afyamap.geojson').then(function(geoJSON) {
     var options = {
       onEachFeature: onEachFeature
     }

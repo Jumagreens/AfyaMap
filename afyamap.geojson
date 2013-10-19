@@ -17,6 +17,21 @@
                     -6.80308
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mwananyamala Hospital",
+                "address": "Makumbusho",
+                "city": "Dar es Salaam"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.253012,
+                    -6.787154
+                ]
+            }
         }
     ]
 }
