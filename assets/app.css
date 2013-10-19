@@ -30,3 +30,9 @@ h1 small {
   display: block;
   font-weight: normal;
 }
+
+@media screen and (max-width: 640px) {
+  h1 {
+    font-size: 1em;
+  }
+}
