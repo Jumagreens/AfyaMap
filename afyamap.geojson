@@ -81,7 +81,23 @@
                     -6.828105
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ebrahim Haji Hospital",
+                "address": "Gerezani",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 211 4995",
+                "web": "www.ebrahimhaji.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.284561,
+                    -6.817768
+                ]
+            }
         }
     ]
 }
-
