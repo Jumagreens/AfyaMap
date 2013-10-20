@@ -98,6 +98,25 @@
                     -6.817768
                 ]
             }
-        }
+        },
+        
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilimanjaro Christian Medical Centre (KCMC)",
+                "address": "Moshi",
+                "city": "Kilimanjaro",
+                "phone": "+255 27 2754377-2754383",
+                "web": "www.kcmc.ac.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.674450,
+                    -3.365789
+                ]
+            }
+        
+        
     ]
 }
