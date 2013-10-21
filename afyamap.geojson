@@ -302,6 +302,24 @@
                     -4.895568
                 ]
             }
+        },
+        ,
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinyanga Regional Hospital",
+                "address": "Shinyanga",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.599871,
+                    -3.535855
+                ]
+            }
         }
     ]
 }
