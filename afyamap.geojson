@@ -234,6 +234,40 @@
                     -3.280772
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawenzi Hospital",
+                "address": "Near Uhuru Park",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.339767,
+                    -3.351465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilimanjaro Hospital",
+                "address": "Near Ngujini Road",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.660986,
+                    -3.694142
+                ]
+            }
         }
     ]
 }
