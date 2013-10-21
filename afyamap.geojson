@@ -217,6 +217,23 @@
                     -6.214175
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marangu Hospital",
+                "address": "Marangu",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.518096,
+                    -3.280772
+                ]
+            }
         }
     ]
 }
