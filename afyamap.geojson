@@ -225,7 +225,7 @@
                 "address": "Marangu",
                 "city": "Moshi",
                 "phone": "#",
-                "web": "#"
+                "web": "#"ƒ
             },
             "geometry": {
                 "type": "Point",
@@ -266,6 +266,23 @@
                 "coordinates": [
                     39.253411,
                     -6.761507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lugalo General Military Hospital",
+                "address": "Kawe,along Bagamoyo Road",
+                "city": "Dar es Salaam",
+                "phone": "0025522 277 5184",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.205434,
+                    -6.693887
                 ]
             }
         },
