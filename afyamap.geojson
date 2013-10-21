@@ -166,6 +166,40 @@
                     -2.528299
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kisarawe District Hospital",
+                "address": "Kisarawe",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.075470,
+                    -6.905546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bagamoyo Hospital",
+                "address": "Bagamoyo",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.906702,
+                    -6.437245
+                ]
+            }
         }
     ]
 }
