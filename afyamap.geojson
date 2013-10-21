@@ -200,6 +200,23 @@
                     -6.437245
                 ]
             }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma Christian Medical Centre (DCMC)",
+                "address": "Chamwino",
+                "city": "Dodoma",
+                "phone": "+255 26 2321051",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.758545,
+                    -6.214175
+                ]
+            }
         }
     ]
 }
