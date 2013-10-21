@@ -149,6 +149,23 @@
                     -6.180468
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bugando Medical Hospital",
+                "address": "Bugando",
+                "city": "Mwanza",
+                "phone": "+255 28 406105",
+                "web": "www.bugandomedicalcentre.go.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.907841,
+                    -2.528299
+                ]
+            }
         }
     ]
 }
