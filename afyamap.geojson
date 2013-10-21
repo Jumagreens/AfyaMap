@@ -255,6 +255,23 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "SANITA Medics and Diagnostics ltd",
+                "address": "plot 168 along Mwai Kibaki Rd,Mikocheni",
+                "city": "Dar es Salaam",
+                "phone": "+255 222 70 14 10 or +255 688 863035",
+                "web": "http://www.sanitasmedics.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.253411,
+                    -6.761507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Kilimanjaro Hospital",
                 "address": "Near Ngujini Road",
                 "city": "Moshi",
