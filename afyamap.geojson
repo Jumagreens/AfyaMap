@@ -119,7 +119,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Tumbi Hospital",
+                "name": "Tumbi Special Hospital",
                 "address": "Kibaha",
                 "city": "Pwani",
                 "phone": "+255 23 2402101",
@@ -130,6 +130,23 @@
                 "coordinates": [
                     38.970883,
                     -6.784625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berega Hospital",
+                "address": "Morogoro",
+                "city": "Morogoro",
+                "phone": "+255 23 2628500",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.146295,
+                    -6.180468
                 ]
             }
         }
