@@ -115,6 +115,23 @@
                     -3.320061
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tumbi Hospital",
+                "address": "Kibaha",
+                "city": "Pwani",
+                "phone": "+255 27 2754377-2754383",
+                "web": "www.kec.or.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.970883,
+                    -6.784625
+                ]
+            }
         }
     ]
 }
