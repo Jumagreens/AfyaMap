@@ -387,6 +387,23 @@
                     -8.924714
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dareda Designated Hospital",
+                "address": "Babati District",
+                "city": "Manyara",
+                "phone": "+255 272 531245",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.492228,
+                    -4.240060
+                ]
+            }
         }
     ]
 }
