@@ -258,8 +258,8 @@
                 "name": "SANITA Medics and Diagnostics ltd",
                 "address": "plot 168 along Mwai Kibaki Rd,Mikocheni",
                 "city": "Dar es Salaam",
-                "phone": "+255 222 70 14 10 or +255 688 863035",
-                "web": "http://www.sanitasmedics.com/"
+                "phone": "+255 222 701410/+255 688 863035",
+                "web": "www.sanitasmedics.com"
             },
             "geometry": {
                 "type": "Point",
@@ -395,7 +395,7 @@
                 "address": "Babati District",
                 "city": "Manyara",
                 "phone": "+255 272 531245",
-                "web": "#"
+                "web": "www.daredahospital.com"
             },
             "geometry": {
                 "type": "Point",
