@@ -472,6 +472,40 @@
                     -5.029664
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sumbawanga District Hospital",
+                "address": "Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.613017,
+                    -7.965853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rukwa Regional Hospital",
+                "address": "Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.614519,
+                    -7.966852
+                ]
+            }
         }
     ]
 }
