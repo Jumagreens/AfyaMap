@@ -506,6 +506,40 @@
                     -7.966852
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iringa Regional Hospital",
+                "address": "Near Iringa District Prison",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.699901,
+                    -7.781689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imecc Hospital",
+                "address": "Near National Milling Corporation",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.699725,
+                    -7.774549
+                ]
+            }
         }
     ]
 }
