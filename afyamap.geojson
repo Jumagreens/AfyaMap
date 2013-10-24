@@ -472,23 +472,6 @@
                     -5.029664
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Akbar Hospital",
-                "address": "Near Daraja Bovu",
-                "city": "Zanzibar",
-                "phone": "+255 777 415898",
-                "web": "#"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.221110,
-                    -6.147952
-                ]
-            }
         }
     ]
 }
