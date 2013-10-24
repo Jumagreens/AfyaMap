@@ -426,7 +426,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Sokoine (Lindi) Hospital",
-                "address": "B2",
+                "address": "#",
                 "city": "Lindi",
                 "phone": "#",
                 "web": "#"
@@ -460,10 +460,10 @@
             "type": "Feature",
             "properties": {
                 "name": "Kitete Hospital",
-                "address": "Nyangao",
+                "address": "Near Itetemia Road",
                 "city": "Tabora",
                 "phone": "+255 26 2605950",
-                "web": "www.nyangaohospital.com‎"
+                "web": "#"
             },
             "geometry": {
                 "type": "Point",
