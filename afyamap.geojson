@@ -404,6 +404,57 @@
                     -4.240060
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ligula Hospital",
+                "address": "Near Jamhuri Road",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.172716,
+                    -10.282307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sokoine (Lindi) Hospital",
+                "address": "B2",
+                "city": "Lindi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.705574,
+                    -9.980968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Walburg's Hospital",
+                "address": "Nyangao",
+                "city": "Lindi",
+                "phone": "+255 717 119665",
+                "web": "www.nyangaohospital.com‎"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.297090,
+                    -10.331106
+                ]
+            }
         }
     ]
 }
