@@ -455,6 +455,23 @@
                     -10.331106
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kitete Hospital",
+                "address": "Nyangao",
+                "city": "Tabora",
+                "phone": "+255 26 2605950",
+                "web": "www.nyangaohospital.com‎"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.808281,
+                    -5.029664
+                ]
+            }
         }
     ]
 }
