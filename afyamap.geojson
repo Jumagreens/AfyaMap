@@ -540,6 +540,23 @@
                     -7.774549
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ngome Hospital",
+                "address": "Near Ngome Primary School",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.715945,
+                    -7.750231
+                ]
+            }
         }
     ]
 }
