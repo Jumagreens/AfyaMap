@@ -353,6 +353,23 @@
                     -3.535855
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bombo Regional Hospital",
+                "address": "Hospital Road",
+                "city": "Tanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.112085,
+                    -5.063731
+                ]
+            }
         }
     ]
 }
