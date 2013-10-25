@@ -557,6 +557,23 @@
                     -7.750231
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bukoba Provincial Hospital",
+                "address": "Near Uganda Road",
+                "city": "Bukoba",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.809640,
+                    -1.333951
+                ]
+            }
         }
     ]
 }
