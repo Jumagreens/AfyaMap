@@ -574,6 +574,23 @@
                     -1.333951
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aghakhan Primary Medical Centre",
+                "address": "Behind Aghakhan Mosque",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.906692,
+                    -2.522492
+                ]
+            }
         }
     ]
 }
