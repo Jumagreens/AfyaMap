@@ -591,6 +591,60 @@
                     -2.522492
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma Urban Hospital",
+                "address": "Makole",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.752009,
+                    -6.179366
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kondoa District Hospital",
+                "address": "Kondoa Mjini",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.795149,
+                    -4.904002
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kongwa District Hospital",
+                "address": "Kongwa Mjini",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.389937,
+                    -6.193302
+
+                ]
+            }
         }
     ]
 }
