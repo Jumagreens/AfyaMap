@@ -735,6 +735,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Joseph Hospital",
+                "address": "Moshi Urban Near Soweto Graves",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.317477,
+                    -3.355434
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moshi Arusha Hospital",
+                "address": "Along side Arusha-Himo road",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.338463,
+                    -3.346142
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilema Hospital",
+                "address": "Kilema",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.495823,
+                    -3.304451
+
+                ]
+            }
         }
     ]
 }
