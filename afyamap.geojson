@@ -789,6 +789,42 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hai District Hospital",
+                "address": "District Hospital",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.141938,
+                    -3.331935
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marangu Hospital",
+                "address": "Marangu",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.518096,
+                    -3.280772
+
+                ]
+            }
         }
     ]
 }
