@@ -681,6 +681,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kabanga Hospital",
+                "address": "Kabanga Ngara",
+                "city": "Bukoba",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.466681,
+                    -2.638813
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasulu District Hospital",
+                "address": "Kasulu",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.096536,
+                    -4.561172
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heri Adventist Hospital",
+                "address": "Muhunga Kasulu",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.792771,
+                    -4.444339
+
+                ]
+            }
         }
     ]
 }
