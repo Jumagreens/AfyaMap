@@ -645,6 +645,42 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ludewa Hospital",
+                "address": "Mawengi Ludewa",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.684241,
+                    -10.10193
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ilembula Lutheran Hospital",
+                "address": "Usuka Njombe",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.684241,
+                    -10.10193
+
+                ]
+            }
         }
     ]
 }
