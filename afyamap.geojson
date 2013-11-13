@@ -825,6 +825,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nkansi District Hospital",
+                "address": "Namanyere Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.039075,
+                    -7.506480
+
+                ]
+            }
         }
     ]
 }
