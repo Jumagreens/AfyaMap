@@ -1347,6 +1347,42 @@
 
                 ]
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uluguru Health Centre",
+                "address": "Morogoro Urban",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.662383,
+                    -6.830405
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Harrys Dispensary",
+                "address": "Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     37.66352,
+                    -6.827454
+
+                ]
+            }
+        }	
     ]
 }
