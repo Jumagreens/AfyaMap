@@ -987,6 +987,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Hospital",
+                "address": "Behind Uhuru Street Near Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.664834,
+                    -6.829044
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Morogoro Regional Hospital",
+                "address": "Near Old Dar es Salaam Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67052,
+                    -6.82759
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mpanda District Hospital",
+                "address": "Mpanda",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.073971
+                    -6.339195
+
+                ]
+            }
         }
     ]
 }
