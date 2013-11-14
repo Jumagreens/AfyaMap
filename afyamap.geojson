@@ -1329,6 +1329,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mgolole Dispensary",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.732571,
+                     -6.80882
+
+                ]
+            }
         }
     ]
 }
