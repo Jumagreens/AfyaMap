@@ -1311,6 +1311,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chalinze Health Centre",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     38.35391,
+                    -6.636533
+
+                ]
+            }
         }
     ]
 }
