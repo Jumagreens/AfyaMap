@@ -1149,6 +1149,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sengerema District Hospital",
+                "address": "Kamanga Road Sengerema",
+                "city": "Mwanza",
+                "phone": "+255 28 259 0018 ‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.655334,
+                    -2.639397
+
+                ]
+            }
         }
     ]
 }
