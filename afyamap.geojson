@@ -1005,6 +1005,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morogoro Regional Hospital",
+                "address": "Near Old Dar es Salaam Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67052,
+                    -6.82759
+
+                ]
+            }
         }
     ]
 }
