@@ -933,6 +933,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Ann Mission Hospital",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.842952,
+                    -5.015119
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St.Philip Health Centre",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.801668,
+                    -5.047075
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Rusesa Health Centre",
+                "address": "Musosi",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.01636,
+                    -4.820905
+
+                ]
+            }
         }
     ]
 }
