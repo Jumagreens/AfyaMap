@@ -1095,6 +1095,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urambo District Hospital",
+                "address": "Urambo",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.074097,
+                    -5.081625
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seketoule Hospital",
+                "address": "Machemba Road Ilemela",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.904054,
+                    -2.511003
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bariadi District Hospital",
+                "address": "Bariadi",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.99416,
+                    -2.775769
+
+                ]
+            }
         }
     ]
 }
