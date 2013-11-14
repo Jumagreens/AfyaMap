@@ -879,6 +879,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winan Hospital",
+                "address": "Near Nyamongo Road Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.383034,
+                    -1.347643
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nyamongo Hospital",
+                "address": "Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.524105,
+                    -1.469977
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Musoma Hospital",
+                "address": "Lake Victoria Penisula",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.807237,
+                    -1.480642
+
+                ]
+            }
         }
     ]
 }
