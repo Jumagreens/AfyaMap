@@ -1023,24 +1023,6 @@
 
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Katandala Health Centre",
-                "address": "Katandala",
-                "city": "Rukwa",
-                "phone": "#",
-                "web": "#"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    31.620862
-                    -7.95145
-
-                ]
-            }
         }
     ]
 }
