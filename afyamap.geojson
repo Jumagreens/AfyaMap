@@ -1221,6 +1221,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magu District Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.423811,
+                    -2.597027
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kikubiji Health Centre",
+                "address": "Kwimba",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.098741,
+                    -3.351915
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Magu Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.437721,
+                    -2.59351
+
+                ]
+            }
         }
     ]
 }
