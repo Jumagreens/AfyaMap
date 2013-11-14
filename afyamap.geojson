@@ -1,4 +1,4 @@
-﻿{
+{
     "type": "FeatureCollection",
     "features": [
         {
@@ -843,6 +843,546 @@
 
                 ]
             }
-        }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nyarero Hospital",
+                "address": "Nyamwanga",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.540206,
+                    -1.390272
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tarime District Hospital",
+                "address": "Near Kenya Road Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.368882,
+                    -1.34672
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Winan Hospital",
+                "address": "Near Nyamongo Road Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.383034,
+                    -1.347643
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nyamongo Hospital",
+                "address": "Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.524105,
+                    -1.469977
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Musoma Hospital",
+                "address": "Lake Victoria Penisula",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.807237,
+                    -1.480642
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Ann Mission Hospital",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.842952,
+                    -5.015119
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St.Philip Health Centre",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.801668,
+                    -5.047075
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Rusesa Health Centre",
+                "address": "Musosi",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.01636,
+                    -4.820905
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Hospital",
+                "address": "Behind Uhuru Street Near Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.664834,
+                    -6.829044
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Morogoro Regional Hospital",
+                "address": "Near Old Dar es Salaam Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67052,
+                    -6.82759
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mpanda District Hospital",
+                "address": "Mpanda",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.073971
+                    -6.339195
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Katandala Health Centre",
+                "address": "Katandala",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.620862
+                    -7.95145
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mpui Health Centre",
+                "address": "Near Sumbawanga Tunduma Road Mpui Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.83747
+                    -8.354264
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Laela Health Centre",
+                "address": "Near Sumbawanga Tunduma Road",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.049396
+                    -8.571354
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Urambo District Hospital",
+                "address": "Urambo",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.074097
+                    -5.081625
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Seketoule Hospital",
+                "address": "Machemba Road Ilemela",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.904054
+                    -2.511003
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Bariadi District Hospital",
+                "address": "Bariadi",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.99416
+                    -2.775769
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Sengerema District Hospital",
+                "address": "Kamanga Road Sengerema",
+                "city": "Mwanza",
+                "phone": "+255 28 259 0018 ‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.655334
+                    -2.639397
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Zogolo Health Centre",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.151048
+                    -4.098476
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nzega District Hospital",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.179585
+                    -4.21732
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkinga Hospital",
+                "address": "Nkinga",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.439
+                    -4.426469
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Magu District Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.423811
+                    -2.597027
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kikubiji Health Centre",
+                "address": "Kwimba",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.098741
+                    -3.351915
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Magu Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.437721
+                    -2.59351
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mwadui Hospital",
+                "address": "Kishapu Mwadui",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.600129
+                    -3.536418
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kolandoto Hospital",
+                "address": "Kolandoto",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.558938
+                    -3.549503
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Chalinze Health Centre",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.35391
+                    -6.636533
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mgolole Dispensary",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.732571
+                    -6.80882
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Uluguru Health Centre",
+                "address": "Morogoro Urban",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.662383
+                    -6.830405
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Harrys Dispensary",
+                "address": "Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.66352
+                    -6.827454
+
+                ]
+            }
+        }	
     ]
 }
