@@ -1023,6 +1023,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mpanda District Hospital",
+                "address": "Mpanda",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.073971,
+                    -6.339195
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Katandala Health Centre",
+                "address": "Katandala",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.620862,
+                    -7.95145
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mpui Health Centre",
+                "address": "Near Sumbawanga Tunduma Road Mpui Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.83747,
+                    -8.354264
+
+                ]
+            }
         }
     ]
 }
