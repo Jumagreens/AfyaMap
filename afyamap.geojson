@@ -1060,7 +1060,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mpui Health Centre",
@@ -1072,7 +1072,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    31.83747,
+                     31.83747,
                     -8.354264
 
                 ]
