@@ -987,6 +987,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Hospital",
+                "address": "Behind Uhuru Street Near Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.664834,
+                    -6.829044
+
+                ]
+            }
         }
     ]
 }
