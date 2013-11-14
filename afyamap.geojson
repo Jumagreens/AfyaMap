@@ -1023,24 +1023,6 @@
 
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Mpanda District Hospital",
-                "address": "Mpanda",
-                "city": "Rukwa",
-                "phone": "#",
-                "web": "#"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    31.073971
-                    -6.339195
-
-                ]
-            }
         }
     ]
 }
