@@ -1077,6 +1077,24 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laela Health Centre",
+                "address": "Near Sumbawanga Tunduma Road",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.049396,
+                    -8.571354
+
+                ]
+            }
         }
     ]
 }
