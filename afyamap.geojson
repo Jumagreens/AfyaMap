@@ -1275,6 +1275,60 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mwadui Hospital",
+                "address": "Kishapu Mwadui",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.600129,
+                    -3.536418
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kolandoto Hospital",
+                "address": "Kolandoto",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.558938,
+                    -3.549503
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Chalinze Health Centre",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     38.35391,
+                    -6.636533
+
+                ]
+            }
         }
     ]
 }
