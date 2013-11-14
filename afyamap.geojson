@@ -843,6 +843,42 @@
 
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nyarero Hospital",
+                "address": "Nyamwanga",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.540206,
+                    -1.390272
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tarime District Hospital",
+                "address": "Near Kenya Road Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.368882,
+                    -1.34672
+
+                ]
+            }
         }
     ]
 }
