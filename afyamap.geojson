@@ -1383,6 +1383,346 @@
 
                 ]
             }
-        }	
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mbeya Referral Hospital",
+                "address": "Near Hospital Hill Road Sisimba",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.438703,
+                    -8.889376
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "K's Quality Hospital",
+                "address": "Forest",
+                "city": "Mbeya",
+                "phone": "+255 25 250 4378",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.453509,
+                    -8.909462
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Meta Maternity Hospital",
+                "address": "Mabatini",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.433322,
+                    -8.909546
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ifisi Hospital",
+                "address": "Few Kilometres From Songwe Airport",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.311258,
+                    -8.931475
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Igogwe Mission Hospital",
+                "address": "Rungwe",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.522677,
+                    -9.152858
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Makandana Hospital",
+                "address": "Tukuyu",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.639847,
+                    -9.268538
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbozi Mission Hospital",
+                "address": "Mbozi",
+                "city": "Mbeya",
+                "phone": "+255 25 258 0082‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.928779,
+                     -9.03349
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Medical Centre",
+                "address": "Near Miti Mirefu Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     32.906872,
+                     -2.522481
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Medical Centre",
+                "address": "Near Market Square",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.441779,
+                     -8.892535
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbeya Regional Hospital",
+                "address": "Nzovwe",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.446429,
+                      -8.91482
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbozi District Hospital",
+                "address": "Near Mbozi District Government HQ Mbozi",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     32.930736,
+                      -8.91482
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Konde Health Centre",
+                "address": "Tukuyu",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      33.641853,
+                      -9.251802
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Agha Khan Hospital",
+                "address": "Sixth Street",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.745684,
+                      -6.179496
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Sandy Hill Hospital",
+                "address": "Amani Road",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.734375,
+                      -6.182126
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma University Hospital",
+                "address": "University of Dodoma Campus",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.730869,
+                      -6.197596
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkuhungu Community Hospital",
+                "address": "Nkuhungu",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.724581,
+                      -6.147433
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Brigita Dispensary",
+                "address": "Makonde Street",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       39.71396,
+                      -9.995899
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kitomanga Health Centre",
+                "address": "Kitomanga",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        39.5439,
+                      -9.669102
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Masoko Urban Health Centre",
+                "address": "Kariakoo Street Kilwa Masoko Kilwa",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.514834,
+                      -8.929385
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Rehema Health Centre",
+                "address": "Newala",
+                "city": "Mtwara",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        39.26773,
+                      -10.940231
+                ]
+            }
+        }
     ]
 }
