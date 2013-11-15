@@ -1716,6 +1716,24 @@
                 "phone": "#‎",
                 "web": "#"
             },
+            ,
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muheza District  Hospital",
+                "address": "Muheza",
+                "city": "Muheza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.253012,
+                    -6.787154
+                ]
+            }
+        },
             {
             "type": "Feature",
             "properties": {
