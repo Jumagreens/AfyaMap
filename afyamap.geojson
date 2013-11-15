@@ -1716,6 +1716,23 @@
                 "phone": "#‎",
                 "web": "#"
             },
+            {
+            "type": "Feature",
+            "properties": {
+                "name": "Handeni District Hospital",
+                "address": "Magomeni Mikumi",
+                "city": "Handeni",
+                "phone": "+255 (22) 2171871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   38. 02063,
+                    -5.43547
+                ]
+            }
+        }
+            ,
             "geometry": {
                 "type": "Point",
                 "coordinates": [
