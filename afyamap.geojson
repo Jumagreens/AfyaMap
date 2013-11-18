@@ -1706,6 +1706,23 @@
                       -8.929385
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rehema Health Centre",
+                "address": "Newala",
+                "city": "Mtwara",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        39.26773,
+                      -10.940231
+                ]
+            }
         }
     ]
 }
