@@ -2114,6 +2114,40 @@
                           -9.501432
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Singida Regional Hospital",
+                "address": "Singida",
+                "city": "Singida",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.747649,
+                     -4.815893
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Manyoni District Hospital",
+                "address": "Manyoni",
+                "city": "Singida",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.828768,
+                     -5.747267
+                ]
+            }
         }
     ]
 }
