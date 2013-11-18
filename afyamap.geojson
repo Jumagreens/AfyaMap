@@ -1723,6 +1723,176 @@
                       -10.940231
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nachingwea District Hospital",
+                "address": "Nachingwea",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     38.755201,
+                    -10.367903
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Newala District Hospital",
+                "address": "Newala",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     39.275531,
+                    -10.954944
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tandahimba District Hospital",
+                "address": "Near Congo Street Tandahimba",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.63988,
+                    -10.753843
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ilininda Dispensary",
+                "address": "Near Madilu Ilininda Road",
+                "city": "Ludewa Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      34.847238,
+                      -9.773517
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Manga Dispensary",
+                "address": "Near Lusitu Madilu Road",
+                "city": "Ludewa Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       34.72847,
+                      -9.710157
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Matemanga Health Centre",
+                "address": "Matemanga Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.008745,
+                      -10.758617
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Natembo Dispensary",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.236602,
+                      -10.956333
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mtina Health Centre",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.368461,
+                      -11.261379
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namasakata Dispensary",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.447758,
+                      -11.143785
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ulanga District Hospital",
+                "address": "Ulanga",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       36.716999,
+                       -8.688399
+                ]
+            }
         }
     ]
 }
