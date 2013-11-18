@@ -2114,6 +2114,23 @@
                           -9.501432
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Singida Regional Hospital",
+                "address": Singida Urban",
+                "city": "Singida",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                           34.747649,
+                           -4.815893
+                ]
+            }
         }
     ]
 }
