@@ -1706,31 +1706,6 @@
                       -8.929385
                 ]
             }
-        },
-		{
-            "type": "Feature",
-            "properties": {
-                "name": "Rehema Health Centre",
-                "address": "Newala",
-                "city": "Mtwara",
-                "phone": "#‎",
-                "web": "#"
-            },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Muheza District  Hospital",
-                "address": "Muheza",
-                "city": "Muheza",
-                "phone": "#‎",
-                "web": "#"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.253012,
-                    -6.787154
-                ]
         }
     ]
 }
