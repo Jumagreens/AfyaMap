@@ -1893,6 +1893,227 @@
                        -8.688399
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lugala Lutheran Hospital",
+                "address": "Ulanga",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "www.health.elct.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.137574,
+                     -8.924714
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tanwattle Hospital",
+                "address": "Njombe Makambako Road",
+                "city": "Njombe Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.776921,
+                     -9.296276
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kibena Hospital",
+                "address": "Njombe Songea Road",
+                "city": "Njombe Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.772595,
+                     -9.309184
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbessa Mission Hospital",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      37.06435,
+                     -11.34591
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "ST. Anne's Mission Hospital",
+                "address": "Near Tanzania Malawi Border Mbinga",
+                "city": "Mbinga Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       34.640772,
+                      -11.098062
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kigonsera Health Centre",
+                "address": "Kigonsera Mbinga",
+                "city": "Mbinga Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       35.072222,
+                       -10.80343
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mkongo Health Centre",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         36.04331,
+                       -10.694725
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namabengo Health Centre",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         35.864351,
+                        -10.558847
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Litembo Hospital",
+                "address": "Mbinga",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         34.825662,
+                        -10.976752
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namtumbo District Hospital",
+                "address": "Namtumbo",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         36.133947,
+                        -10.466163
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Joseph's  Hospital",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                          35.46303,
+                        -10.638077
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ruvuma Regional Hospital",
+                "address": "Ruvuma Urban",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                          35.650893,
+                         -10.681186
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ngulilo Dispensary",
+                "address": "Ileje",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                           33.34729,
+                          -9.501432
+                ]
+            }
         }
     ]
 }
