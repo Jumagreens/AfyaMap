@@ -9,10 +9,6 @@ $(function() {
   // add locate button
   L.control.locate().addTo(map);
   
-  
-  //add measure control on the map
-  L.Control.measureControl().addTo(map);
-
   // add search
   var searchLayer = function(query, cb) {
     var d = $.Deferred()
