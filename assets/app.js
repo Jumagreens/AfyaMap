@@ -6,9 +6,6 @@ $(function() {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
   
-  //add measure control on the map
-  L.Control.measureControl().addTo(map);
-
   // add locate button
   L.control.locate().addTo(map);
 
