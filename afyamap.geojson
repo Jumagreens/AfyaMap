@@ -12,7 +12,7 @@
                 "No. of Patients Per Day": "1000-1200",
                 "Address": "Upanga West",
                 "City": "Dar es Salaam",
-                "City Population": "2000,000",
+                "City Population per medical doctor": "24000",
                 "Phone": "+255 22 215 1599",
                 "Web": "www.mnh.or.tz"
             },
@@ -2152,6 +2152,29 @@
                 "coordinates": [
                      34.828768,
                      -5.747267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Muheza Designated District Hospital",
+                "Status": "District Hospital",
+                "Ownership": "Government",
+                "Wards": "#",
+                "Beds": "#",
+                "No. of Patients Per Day": "#",
+                "Address": "Muheza",
+                "City": "Tanga",
+                "City Population per medical doctor": "58000",
+                "Phone": "#",
+                "Web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.792431,
+                    -5.168043
                 ]
             }
         }
