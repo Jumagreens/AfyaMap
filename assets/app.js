@@ -1,14 +1,14 @@
 var map;
 $(function() {
-  map = L.map('map').setView(new L.LatLng(-6.80308, 39.27261), 6);
+  map = L.map('map').setView(new L.LatLng(-6.80308, 39.27261), 13);
 
   L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
-  
+
   // add locate button
   L.control.locate().addTo(map);
-  
+
   // add search
   var searchLayer = function(query, cb) {
     var d = $.Deferred()
