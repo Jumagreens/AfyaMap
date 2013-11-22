@@ -1,29 +1,7 @@
 {
     "type": "FeatureCollection",
     "features": [
-         {
-            "type": "Feature",
-            "properties": {
-                "Name": "Muhimbili National Hospital",
-                "Status": "National Referral Hospital",
-                "Ownership": "Government",
-                "Wards": "#",
-                "Beds": "900",
-                "Patients Per Day": "1000-1200",
-                "Address": "Upanga West",
-                "City": "Dar es Salaam",
-                "City PMD": "24000",
-                "Phone": "+255 22 215 1599",
-                "Web": "www.mnh.or.tz"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    39.27261,
-                    -6.80308
-                ]
-            }
-        },
+     
         {
             "type": "Feature",
             "properties": {
