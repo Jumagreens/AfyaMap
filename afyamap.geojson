@@ -9,10 +9,10 @@
                 "Ownership": "Government",
                 "Wards": "#",
                 "Beds": "900",
-                "No. of Patients Per Day": "1000-1200",
+                "Patients Per Day": "1000-1200",
                 "Address": "Upanga West",
                 "City": "Dar es Salaam",
-                "City Population per medical doctor": "24000",
+                "City PMD": "24000",
                 "Phone": "+255 22 215 1599",
                 "Web": "www.mnh.or.tz"
             },
