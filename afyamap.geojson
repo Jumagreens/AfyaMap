@@ -2160,15 +2160,15 @@
             "properties": {
                 "Name": "Muheza Designated District Hospital",
                 "Status": "District Hospital",
-                "Ownership": "Government",
-                "Wards": "#",
-                "Beds": "#",
+                "Ownership": "Faith Based Organization",
+                "Wards": "2",
+                "Beds": "330",
                 "No. of Patients Per Day": "#",
-                "Address": "Muheza",
+                "Address": "Hospitali Teule, Private Bag, Muheza, Tanga",
                 "City": "Tanga",
                 "City Population per medical doctor": "58000",
-                "Phone": "#",
-                "Web": "#"
+                "Phone": "+255 27 2644121",
+                "Web": "http://www.teule.or.tz/"
             },
             "geometry": {
                 "type": "Point",
