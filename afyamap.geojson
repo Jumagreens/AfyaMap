@@ -21,6 +21,23 @@
         {
             "type": "Feature",
             "properties": {
+                "Name": "Muhimbili National Hospital",
+                "Address": "Upanga West",
+                "City": "Dar es Salaam",
+                "Phone": "+255 22 215 1599",
+                "Web": "www.mnh.or.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.27261,
+                    -6.80308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Magomeni Hospital",
                 "address": "Magomeni Mikumi",
                 "city": "Dar es Salaam",
