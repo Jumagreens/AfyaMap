@@ -2319,6 +2319,193 @@
                       -3.373298
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CF Hospital",
+                "address": "Station Road , opposite lake hotel",
+                "city": "Mwanza",
+                "phone": "+255 784 734 048 ‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         32.9,
+                    -2.516667
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ndala Mission Hospital",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      33.238589,
+                       -4.77119
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Hindu Hospital",
+                "address": "Balewa Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       32.900737,
+                       -2.512692
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tumaini Hospital",
+                "address": "Makongoro Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.90554,
+                       -2.492024
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nyerere Designated District Hospital",
+                "address": "Mugumu",
+                "city": "Musoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        34.663383,
+                        -1.841055
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Bukongo Hospital",
+                "address": "Ukerewe",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.095234,
+                        -2.091591
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Hydom Lutheran Hospital",
+                "address": "Mbulu Township",
+                "city": "Manyara",
+                "phone": "+255 27 253 3194‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        35.025691,
+                        -4.193853
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Konde Health Centre",
+                "address": "Konde Diosis, Tukuyu",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.641853,
+                        -9.251802
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ilasi Dispensary",
+                "address": "Behind Tanesco offices, Viwawa",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.937384,
+                        -9.111218
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Isongole Health Centre",
+                "address": "Itumba",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.177177,
+                        -9.473783
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbaya Dispensary",
+                "address": "Near Viwawa Central Market",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.935016,
+                         -9.11162
+                ]
+            }
         }
     ]
 }
