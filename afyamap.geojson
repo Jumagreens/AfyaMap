@@ -2132,6 +2132,193 @@
                      -5.747267
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muheza Designated District Hospital",
+                "address": "Muheza District",
+                "city": "Tanga",
+                "phone": "+255 27 264 4121",
+                "web": "www.teule.or.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.792431,
+                    -5.168043
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkoaranga Hospital",
+                "address": "Arumeru",
+                "city": "Arusha",
+                "phone": "+255 272 553 598",
+                "web": "www.missionhospitallink-tanzania.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.80774,
+                    -3.337558
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "ELCT Health Department",
+                "address": "Serengeti Road",
+                "city": "Arusha",
+                "phone": "+255 27 250 8856",
+                "web": "health.elct.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.67445,
+                    -3.365789
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Elizabeth Hospital",
+                "address": "Ngarenaro",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.676644,
+                     -3.368893
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mount Meru Regional Hospital",
+                "address": "E. African Community Blvd",
+                "city": "Arusha",
+                "phone": "255-27-2503351-3",
+                "web": "http://eol.habari.co.tz/mt-meru-hosp.htm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.69471,
+                     -3.366004
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Soweto General Hospital",
+                "address": "Soweto Garden Kaloleni",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.686997,
+                      -3.363681
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Agha Khan Hospital",
+                "address": "Seth Benjmain Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.689841,
+                      -3.370915
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AICC Hospital",
+                "address": "AICC Old Moshi Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.699345,
+                      -3.374612
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Themi Hospital",
+                "address": "Near Themi Medical Store",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.701127,
+                      -3.398264
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Selian Lutheran Hospital",
+                "address": "Arumeru",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "http://selianlh.habari.co.tz/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.650037,
+                      -3.325219
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Gothard Ati Isaac Onsomu Hospital ",
+                "address": "Arusha-Himo Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       36.78757,
+                      -3.373298
+                ]
+            }
         }
     ]
 }
