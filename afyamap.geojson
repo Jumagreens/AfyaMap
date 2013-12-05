@@ -2538,6 +2538,22 @@
                     -6.822097
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bakwata Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718015,
+                     -3.585546
+                ]
+            }
         }
     ]
 }
