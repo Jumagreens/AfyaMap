@@ -2522,6 +2522,22 @@
                      -1.32317
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazimbu Hospital",
+                "address": "Mazimbu",
+                "city": "Morogoro",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     37.66116,
+                    -6.822097
+                ]
+            }
         }
     ]
 }
