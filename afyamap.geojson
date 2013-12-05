@@ -2506,6 +2506,22 @@
                          -9.11162
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruemeshinye Health Centre",
+                "address": "Junction of Uganda Road",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.795544,
+                     -1.32317
+                ]
+            }
         }
     ]
 }
