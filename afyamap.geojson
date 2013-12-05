@@ -2554,6 +2554,38 @@
                      -3.585546
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kibondo Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718959,
+                      -3.58212
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkwenda Health Centre",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      30.887965,
+                      -1.480436
+                ]
+            }
         }
     ]
 }
