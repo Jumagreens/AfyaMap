@@ -2506,6 +2506,198 @@
                          -9.11162
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruemeshinye Health Centre",
+                "address": "Junction of Uganda Road",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.795544,
+                     -1.32317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazimbu Hospital",
+                "address": "Mazimbu",
+                "city": "Morogoro",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     37.66116,
+                    -6.822097
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Bakwata Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718015,
+                     -3.585546
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kibondo Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718959,
+                      -3.58212
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkwenda Health Centre",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      30.887965,
+                      -1.480436
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkwenda Health Centre",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      30.887965,
+                      -1.480436
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ndolage Lutheran Hospital",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "+255 28 222 2038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      31.807989,
+                      -1.322312
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mgana Hospital",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      31.696206,
+                      -1.213978
+                ]
+            }
+        },`
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Rubya Hospital",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       31.80964,
+                      -1.333951
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kaigara Hospital",
+                "address": "Muleba",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       31.670908,
+                       -1.832482
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Muleba Hospital",
+                "address": "Salimu St, Muleba",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       31.658649,
+                       -1.841607
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Teule Mission Hospital",
+                "address": "Biharamulo",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       31.314769,
+                       -2.633824
+                ]
+            }
         }
     ]
 }
