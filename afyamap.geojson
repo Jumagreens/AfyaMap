@@ -2586,6 +2586,38 @@
                       -1.480436
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ndolage Lutheran Hospital",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "+255 28 222 2038"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      31.807989,
+                      -1.322312
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mgana Hospital",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      31.696206,
+                      -1.213978
+                ]
+            }
         }
     ]
 }
