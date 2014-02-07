@@ -2586,6 +2586,22 @@
                       -1.480436
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muhimbili National Hospital",
+                "address": "Upanga West",
+                "city": "Dar es Salaam",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.272611,
+                      -6.803082
+                ]
+            }
         }
     ]
 }
