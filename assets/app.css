@@ -1,0 +1,45 @@
+html, body {
+  background: #222;
+}
+#map {
+  background: #eee;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+th {
+  padding-right: 10px;
+}
+td {
+  white-space: nowrap;
+}
+
+h1 {
+  position: fixed;
+  z-index: 2;
+  text-align: right;
+  right: 0;
+  font-family: Helvetica, Arial;
+  padding: 10px;
+  text-indent: -9999px;
+
+  background: #fff;
+  width: 314px;
+  height: 77px;
+}
+h1 img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 640px) {
+  h1 {
+    padding: 5px;
+    width: 157px;
+    height: 38px;
+  }
+}

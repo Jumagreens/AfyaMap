@@ -1,0 +1,2607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+     
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mwananyamala Hospital",
+                "address": "Makumbusho",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 276 0499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.253012,
+                    -6.787154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magomeni Hospital",
+                "address": "Magomeni Mikumi",
+                "city": "Dar es Salaam",
+                "phone": "+255 (22) 2171871"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   39.257886,
+                    -6.806561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Amana Hospital",
+                "address": "Ilala",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 2151364-9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.258927,
+                    -6.826352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Temeke Hospital",
+                "address": "Temeke",
+                "city": "Dar es Salaam",
+                "phone": "+255 (22)2856515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.311910,
+                    -6.828105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ebrahim Haji Hospital",
+                "address": "Gerezani",
+                "city": "Dar es Salaam",
+                "phone": "+255 22 211 4995",
+                "web": "www.ebrahimhaji.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.284561,
+                    -6.817768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilimanjaro Christian Medical Centre (KCMC)",
+                "address": "Moshi",
+                "city": "Kilimanjaro",
+                "phone": "+255 27 2754377-2754383",
+                "web": "www.kcmc.ac.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.327281,
+                    -3.320061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tumbi Special Hospital",
+                "address": "Kibaha",
+                "city": "Pwani",
+                "phone": "+255 23 2402101",
+                "web": "www.kec.or.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.970883,
+                    -6.784625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Berega Hospital",
+                "address": "Morogoro",
+                "city": "Morogoro",
+                "phone": "+255 23 2628500",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.146295,
+                    -6.180468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bugando Medical Centre",
+                "address": "Bugando",
+                "city": "Mwanza",
+                "phone": "+255 28 406105",
+                "web": "www.bugandomedicalcentre.go.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.907841,
+                    -2.528299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kisarawe District Hospital",
+                "address": "Kisarawe",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.075470,
+                    -6.905546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bagamoyo Hospital",
+                "address": "Bagamoyo",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.906702,
+                    -6.437245
+                ]
+            }
+        },
+          {
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma Christian Medical Centre (DCMC)",
+                "address": "Chamwino",
+                "city": "Dodoma",
+                "phone": "+255 26 2321051",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.758545,
+                    -6.214175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marangu Hospital",
+                "address": "Marangu",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.518096,
+                    -3.280772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mawenzi Hospital",
+                "address": "Near Uhuru Park",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.339767,
+                    -3.351465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "SANITA Medics and Diagnostics ltd",
+                "address": "plot 168 along Mwai Kibaki Rd,Mikocheni",
+                "city": "Dar es Salaam",
+                "phone": "+255 222 701410/+255 688 863035",
+                "web": "www.sanitasmedics.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.253411,
+                    -6.761507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lugalo General Military Hospital",
+                "address": "Kawe,along Bagamoyo Road",
+                "city": "Dar es Salaam",
+                "phone": "0025522 277 5184",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.205434,
+                    -6.693887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilimanjaro Hospital",
+                "address": "Near Ngujini Road",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.660986,
+                    -3.694142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Maweni Hospital",
+                "address": "Lumumba Street",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.635380,
+                    -4.885346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kigoma Regional Hospital",
+                "address": "Lumumba Street",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.653635,
+                    -4.895568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shinyanga Regional Hospital",
+                "address": "Shinyanga",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.599871,
+                    -3.535855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bombo Regional Hospital",
+                "address": "Hospital Road",
+                "city": "Tanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.112085,
+                    -5.063731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lugala Hospital",
+                "address": "Near Malinyi Village, Ulanga District",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.137574,
+                    -8.924714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dareda Designated Hospital",
+                "address": "Babati District",
+                "city": "Manyara",
+                "phone": "+255 272 531245",
+                "web": "www.daredahospital.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.492228,
+                    -4.240060
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ligula Hospital",
+                "address": "Near Jamhuri Road",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.172716,
+                    -10.282307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sokoine (Lindi) Hospital",
+                "address": "B2",
+                "city": "Lindi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.705574,
+                    -9.980968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Walburg's Hospital",
+                "address": "Nyangao",
+                "city": "Lindi",
+                "phone": "+255 717 119665",
+                "web": "www.nyangaohospital.com‎"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.297090,
+                    -10.331106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kitete Hospital",
+                "address": "Near Itetemia Road",
+                "city": "Tabora",
+                "phone": "+255 26 2605950",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.808281,
+                    -5.029664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sumbawanga District Hospital",
+                "address": "Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.613017,
+                    -7.965853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rukwa Regional Hospital",
+                "address": "Sumbawanga",
+                "city": "Rukwa",
+                "phone": "+255 25 2802078",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.614519,
+                    -7.966852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Iringa Regional Hospital",
+                "address": "Near Iringa District Prison",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.699901,
+                    -7.781689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Imecc Hospital",
+                "address": "Near National Milling Corporation",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.699725,
+                    -7.774549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ngome Hospital",
+                "address": "Near Ngome Primary School",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.715945,
+                    -7.750231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bukoba Provincial Hospital",
+                "address": "Near Uganda Road",
+                "city": "Bukoba",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.809640,
+                    -1.333951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aghakhan Primary Medical Centre",
+                "address": "Behind Aghakhan Mosque",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.906692,
+                    -2.522492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma Urban Hospital",
+                "address": "Makole",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.752009,
+                    -6.179366
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kondoa District Hospital",
+                "address": "Kondoa Mjini",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.795149,
+                    -4.904002
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kongwa District Hospital",
+                "address": "Kongwa Mjini",
+                "city": "Dodoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.389937,
+                    -6.193302
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ludewa Hospital",
+                "address": "Mawengi Ludewa",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.684241,
+                    -10.10193
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ilembula Lutheran Hospital",
+                "address": "Usuka Njombe",
+                "city": "Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.684241,
+                    -10.10193
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kabanga Hospital",
+                "address": "Kabanga Ngara",
+                "city": "Bukoba",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.466681,
+                    -2.638813
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kasulu District Hospital",
+                "address": "Kasulu",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.096536,
+                    -4.561172
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heri Adventist Hospital",
+                "address": "Muhunga Kasulu",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.792771,
+                    -4.444339
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Saint Joseph Hospital",
+                "address": "Moshi Urban Near Soweto Graves",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.317477,
+                    -3.355434
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Moshi Arusha Hospital",
+                "address": "Along side Arusha Himo road",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.338463,
+                    -3.346142
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kilema Hospital",
+                "address": "Kilema",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.495823,
+                    -3.304451
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hai District Hospital",
+                "address": "District Hospital",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.141938,
+                    -3.331935
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marangu Hospital",
+                "address": "Marangu",
+                "city": "Moshi",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.518096,
+                    -3.280772
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nkansi District Hospital",
+                "address": "Namanyere Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.039075,
+                    -7.506480
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nyarero Hospital",
+                "address": "Nyamwanga",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.540206,
+                    -1.390272
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tarime District Hospital",
+                "address": "Near Kenya Road Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.368882,
+                    -1.34672
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Winan Hospital",
+                "address": "Near Nyamongo Road Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.383034,
+                    -1.347643
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nyamongo Hospital",
+                "address": "Nyamongo Tarime",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.524105,
+                    -1.469977
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Musoma Hospital",
+                "address": "Lake Victoria Penisula",
+                "city": "Musoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.807237,
+                    -1.480642
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. Ann Mission Hospital",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.842952,
+                    -5.015119
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St.Philip Health Centre",
+                "address": "Uyui",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.801668,
+                    -5.047075
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Rusesa Health Centre",
+                "address": "Musosi",
+                "city": "Kigoma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.01636,
+                    -4.820905
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Hospital",
+                "address": "Behind Uhuru Street Near Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.664834,
+                    -6.829044
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Morogoro Regional Hospital",
+                "address": "Near Old Dar es Salaam Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.67052,
+                    -6.82759
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mpanda District Hospital",
+                "address": "Mpanda",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.073971,
+                    -6.339195
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Katandala Health Centre",
+                "address": "Katandala",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.620862,
+                    -7.95145
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mpui Health Centre",
+                "address": "Near Sumbawanga Tunduma Road Mpui Sumbawanga",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     31.83747,
+                    -8.354264
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Laela Health Centre",
+                "address": "Near Sumbawanga Tunduma Road",
+                "city": "Rukwa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.049396,
+                    -8.571354
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Urambo District Hospital",
+                "address": "Urambo",
+                "city": "Tabora",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.074097,
+                    -5.081625
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seketoule Hospital",
+                "address": "Machemba Road Ilemela",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.904054,
+                    -2.511003
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bariadi District Hospital",
+                "address": "Bariadi",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.99416,
+                    -2.775769
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sengerema District Hospital",
+                "address": "Kamanga Road Sengerema",
+                "city": "Mwanza",
+                "phone": "+255 28 259 0018 ‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.655334,
+                    -2.639397
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Zogolo Health Centre",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.151048,
+                    -4.098476
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nzega District Hospital",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.179585,
+                    -4.21732
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nkinga Hospital",
+                "address": "Nkinga",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       33.439,
+                    -4.426469
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Magu District Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.423811,
+                    -2.597027
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kikubiji Health Centre",
+                "address": "Kwimba",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.098741,
+                    -3.351915
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Magu Hospital",
+                "address": "Magu District",
+                "city": "Mwanza",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.437721,
+                     -2.59351
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mwadui Hospital",
+                "address": "Kishapu Mwadui",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.600129,
+                    -3.536418
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kolandoto Hospital",
+                "address": "Kolandoto",
+                "city": "Shinyanga",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.558938,
+                    -3.549503
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Chalinze Health Centre",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     38.35391,
+                    -6.636533
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mgolole Dispensary",
+                "address": "Chalinze",
+                "city": "Pwani",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.732571,
+                     -6.80882
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Uluguru Health Centre",
+                "address": "Morogoro Urban",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.662383,
+                    -6.830405
+
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Harrys Dispensary",
+                "address": "Madaraka Road",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     37.66352,
+                    -6.827454
+
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mbeya Referral Hospital",
+                "address": "Near Hospital Hill Road Sisimba",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.438703,
+                    -8.889376
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "K's Quality Hospital",
+                "address": "Forest",
+                "city": "Mbeya",
+                "phone": "+255 25 250 4378",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.453509,
+                    -8.909462
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Meta Maternity Hospital",
+                "address": "Mabatini",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.433322,
+                    -8.909546
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ifisi Hospital",
+                "address": "Few Kilometres From Songwe Airport",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.311258,
+                    -8.931475
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Igogwe Mission Hospital",
+                "address": "Rungwe",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.522677,
+                    -9.152858
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Makandana Hospital",
+                "address": "Tukuyu",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.639847,
+                    -9.268538
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbozi Mission Hospital",
+                "address": "Mbozi",
+                "city": "Mbeya",
+                "phone": "+255 25 258 0082‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.928779,
+                     -9.03349
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Medical Centre",
+                "address": "Near Miti Mirefu Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     32.906872,
+                     -2.522481
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AghaKhan Medical Centre",
+                "address": "Near Market Square",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.441779,
+                     -8.892535
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbeya Regional Hospital",
+                "address": "Nzovwe",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     33.446429,
+                      -8.91482
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbozi District Hospital",
+                "address": "Near Mbozi District Government HQ Mbozi",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     32.930736,
+                      -8.91482
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Konde Health Centre",
+                "address": "Tukuyu",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      33.641853,
+                      -9.251802
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Agha Khan Hospital",
+                "address": "Sixth Street",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.745684,
+                      -6.179496
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Sandy Hill Hospital",
+                "address": "Amani Road",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.734375,
+                      -6.182126
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Dodoma University Hospital",
+                "address": "University of Dodoma Campus",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.730869,
+                      -6.197596
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkuhungu Community Hospital",
+                "address": "Nkuhungu",
+                "city": "Dodoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      35.724581,
+                      -6.147433
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Brigita Dispensary",
+                "address": "Makonde Street",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       39.71396,
+                      -9.995899
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kitomanga Health Centre",
+                "address": "Kitomanga",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        39.5439,
+                      -9.669102
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Masoko Urban Health Centre",
+                "address": "Kariakoo Street Kilwa Masoko Kilwa",
+                "city": "Lindi",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.514834,
+                      -8.929385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Rehema Health Centre",
+                "address": "Newala",
+                "city": "Mtwara",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        39.26773,
+                      -10.940231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nachingwea District Hospital",
+                "address": "Nachingwea",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     38.755201,
+                    -10.367903
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Newala District Hospital",
+                "address": "Newala",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     39.275531,
+                    -10.954944
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tandahimba District Hospital",
+                "address": "Near Congo Street Tandahimba",
+                "city": "Mtwara",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.63988,
+                    -10.753843
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ilininda Dispensary",
+                "address": "Near Madilu Ilininda Road",
+                "city": "Ludewa Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      34.847238,
+                      -9.773517
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Manga Dispensary",
+                "address": "Near Lusitu Madilu Road",
+                "city": "Ludewa Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       34.72847,
+                      -9.710157
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Matemanga Health Centre",
+                "address": "Matemanga Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.008745,
+                      -10.758617
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Natembo Dispensary",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.236602,
+                      -10.956333
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mtina Health Centre",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.368461,
+                      -11.261379
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namasakata Dispensary",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       37.447758,
+                      -11.143785
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ulanga District Hospital",
+                "address": "Ulanga",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       36.716999,
+                       -8.688399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lugala Lutheran Hospital",
+                "address": "Ulanga",
+                "city": "Morogoro",
+                "phone": "#",
+                "web": "www.health.elct.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.137574,
+                     -8.924714
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tanwattle Hospital",
+                "address": "Njombe Makambako Road",
+                "city": "Njombe Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.776921,
+                     -9.296276
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kibena Hospital",
+                "address": "Njombe Songea Road",
+                "city": "Njombe Iringa",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.772595,
+                     -9.309184
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbessa Mission Hospital",
+                "address": "Tunduru",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      37.06435,
+                     -11.34591
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "ST. Anne's Mission Hospital",
+                "address": "Near Tanzania Malawi Border Mbinga",
+                "city": "Mbinga Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       34.640772,
+                      -11.098062
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Kigonsera Health Centre",
+                "address": "Kigonsera Mbinga",
+                "city": "Mbinga Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       35.072222,
+                       -10.80343
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mkongo Health Centre",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         36.04331,
+                       -10.694725
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namabengo Health Centre",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         35.864351,
+                        -10.558847
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Litembo Hospital",
+                "address": "Mbinga",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         34.825662,
+                        -10.976752
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Namtumbo District Hospital",
+                "address": "Namtumbo",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         36.133947,
+                        -10.466163
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Joseph's  Hospital",
+                "address": "Songea",
+                "city": "Songea",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                          35.46303,
+                        -10.638077
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ruvuma Regional Hospital",
+                "address": "Ruvuma Urban",
+                "city": "Ruvuma",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                          35.650893,
+                         -10.681186
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ngulilo Dispensary",
+                "address": "Ileje",
+                "city": "Mbeya",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                           33.34729,
+                          -9.501432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Singida Regional Hospital",
+                "address": "Singida",
+                "city": "Singida",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.747649,
+                     -4.815893
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Manyoni District Hospital",
+                "address": "Manyoni",
+                "city": "Singida",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     34.828768,
+                     -5.747267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muheza Designated District Hospital",
+                "address": "Muheza District",
+                "city": "Tanga",
+                "phone": "+255 27 264 4121",
+                "web": "www.teule.or.tz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.792431,
+                    -5.168043
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkoaranga Hospital",
+                "address": "Arumeru",
+                "city": "Arusha",
+                "phone": "+255 272 553 598",
+                "web": "www.missionhospitallink-tanzania.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.80774,
+                    -3.337558
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "ELCT Health Department",
+                "address": "Serengeti Road",
+                "city": "Arusha",
+                "phone": "+255 27 250 8856",
+                "web": "health.elct.org"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.67445,
+                    -3.365789
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "St. Elizabeth Hospital",
+                "address": "Ngarenaro",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     36.676644,
+                     -3.368893
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mount Meru Regional Hospital",
+                "address": "E. African Community Blvd",
+                "city": "Arusha",
+                "phone": "255-27-2503351-3",
+                "web": "http://eol.habari.co.tz/mt-meru-hosp.htm"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.69471,
+                     -3.366004
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Soweto General Hospital",
+                "address": "Soweto Garden Kaloleni",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.686997,
+                      -3.363681
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Agha Khan Hospital",
+                "address": "Seth Benjmain Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.689841,
+                      -3.370915
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "AICC Hospital",
+                "address": "AICC Old Moshi Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.699345,
+                      -3.374612
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Themi Hospital",
+                "address": "Near Themi Medical Store",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.701127,
+                      -3.398264
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Selian Lutheran Hospital",
+                "address": "Arumeru",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "http://selianlh.habari.co.tz/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      36.650037,
+                      -3.325219
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Gothard Ati Isaac Onsomu Hospital ",
+                "address": "Arusha-Himo Road",
+                "city": "Arusha",
+                "phone": "#",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       36.78757,
+                      -3.373298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "CF Hospital",
+                "address": "Station Road , opposite lake hotel",
+                "city": "Mwanza",
+                "phone": "+255 784 734 048 ‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                         32.9,
+                    -2.516667
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ndala Mission Hospital",
+                "address": "Nzega",
+                "city": "Shinyanga",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      33.238589,
+                       -4.77119
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Hindu Hospital",
+                "address": "Balewa Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                       32.900737,
+                       -2.512692
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Tumaini Hospital",
+                "address": "Makongoro Road",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.90554,
+                       -2.492024
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nyerere Designated District Hospital",
+                "address": "Mugumu",
+                "city": "Musoma",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        34.663383,
+                        -1.841055
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Bukongo Hospital",
+                "address": "Ukerewe",
+                "city": "Mwanza",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.095234,
+                        -2.091591
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Hydom Lutheran Hospital",
+                "address": "Mbulu Township",
+                "city": "Manyara",
+                "phone": "+255 27 253 3194‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        35.025691,
+                        -4.193853
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Konde Health Centre",
+                "address": "Konde Diosis, Tukuyu",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.641853,
+                        -9.251802
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Ilasi Dispensary",
+                "address": "Behind Tanesco offices, Viwawa",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.937384,
+                        -9.111218
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Isongole Health Centre",
+                "address": "Itumba",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        33.177177,
+                        -9.473783
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Mbaya Dispensary",
+                "address": "Near Viwawa Central Market",
+                "city": "Mbeya",
+                "phone": "#‎",
+                "web": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                        32.935016,
+                         -9.11162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ruemeshinye Health Centre",
+                "address": "Junction of Uganda Road",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.795544,
+                     -1.32317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Mazimbu Hospital",
+                "address": "Mazimbu",
+                "city": "Morogoro",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     37.66116,
+                    -6.822097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bakwata Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718015,
+                     -3.585546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Kibondo Hospital",
+                "address": "Kibondo",
+                "city": "Kigoma",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                     30.718959,
+                      -3.58212
+                ]
+            }
+        },
+		{
+            "type": "Feature",
+            "properties": {
+                "name": "Nkwenda Health Centre",
+                "address": "Kagera",
+                "city": "Bukoba",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      30.887965,
+                      -1.480436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Muhimbili National Hospital",
+                "address": "Upanga West",
+                "city": "Dar es Salaam",
+                "phone": "#"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                      39.272611,
+                      -6.803082
+                ]
+            }
+        }
+    ]
+}
