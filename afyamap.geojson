@@ -2602,6 +2602,22 @@
                       -6.803082
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nairobi ",
+                "address": "Test",
+                "city": "Test",
+                "phone": "+255 22 276 0499"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.8167,
+                    -1.2833
+                ]
+            }
         }
     ]
 }

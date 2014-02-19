@@ -4,7 +4,11 @@ html, body {
 #map {
   background: #eee;
   position: fixed;
+<<<<<<< HEAD
   top: 0;
+=======
+  top: 0%;
+>>>>>>> 88858a65fce91613dc042b80929175b1a7031b39
   left: 0;
   right: 0;
   bottom: 0;
