@@ -33,6 +33,17 @@ $(function() {
     L.geoJson(geoJSON, options).addTo(map);
   })
 
+// Sidebar
+var sidebar = L.control.sidebar('sidebar', {
+    position: 'left'
+    
+});
+
+map.addControl(sidebar);
+//Sidebar
+
+
+
   function onEachFeature (feature, layer) {
     // does this feature have a property named popupContent?
     var html = '<table>';
@@ -40,8 +51,27 @@ $(function() {
       html += "<tr><th>"+property+"</th><td>"+feature.properties[property]+"</td></tr>"
     }
     html += '</table>'
-    layer.bindPopup(html);
+   
+   //SidePopup with details of each feature
+   layer.on("click",function(feature){
+  sidebar.show();
+  sidebar.setContent(html);
+//for hiding the sidebar
+   map.on("click",function(feature){
+    sidebar.hide();
+   })
+})
+ //make the side bar disappear
+/*layer.on("dblclick",function(e){
+      sidebar.hide();
+    })*/    
   }
-});
+
+
+
+
+
+
+}); //Main Function
 
 
