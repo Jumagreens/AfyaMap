@@ -35,7 +35,7 @@ $(function() {
 
 // Sidebar
 var sidebar = L.control.sidebar('sidebar', {
-    position: 'left'
+    position: 'right'
     
 });
 
