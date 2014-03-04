@@ -1,13 +1,12 @@
 html, body {
   background: #f0efe6;
+  min-width: 400px;
 }
 #map {
   background: #eee;
-  position: fixed;
-  top: 54px;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  top: 4px;
+  width:100%;
+  height: 600px;
 }
 #menubar {
     background: #f0efe6;
