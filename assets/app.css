@@ -3,7 +3,7 @@ html, body {
 }
 #map {
   background: #eee;
-  position: fixed;
+  position: relative;
   top: 54px;
   left: 0;
   right: 0;
