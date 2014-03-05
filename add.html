@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>AfyaMap/add hospital</title>
+  <meta name="description" content="A simple app that maps out health initiatives in Tanzania">
+
+  <meta name="viewport" content="width=device-width, user-scalable=false">
+  <link rel="stylesheet" href="assets/add.css">
+
+  
+  <!-- This is necessary for the iOS Install -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <link rel="apple-touch-icon" href="assets/icons/afyamap_icon_128.png">
+  <link rel="icon" href="assets/icons/afyamap_icon_16.png" type="image/png">
+  <link rel="shortcut icon" href="assets/icons/afyamap_icon_16.png" type="image/png">
+  <link rel="apple-touch-startup-image" href="assets/images/loadscreen.png">
+</head>
+
+<body>
+
+<div id="menubar">
+<img src="assets/images/AfyaMap_logo.png" alt="AfyaMap - Tanzania Health Initiative">
+<nav class="primary">
+<ul>
+  <li class="homeitems">
+	<a class="tab" href="index.html">Home</a>
+  </li>
+  <li class="homeitems">
+	<a class="tab" href="#">contact us</a>
+  </li>
+  <li class="homeitems">
+	<a class="tab" href="#">new centre</a>
+  </li>
+ </ul>
+</nav> 
+</div>
+
+<div class="lcontainer">
+<iframe src="https://docs.google.com/forms/d/1KxqPFcTBk7mAehKqph7LlBaQvaqq64rUxcc2vT7X-_c/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>   
+
+</div>
+
+<div  class="rcontainer">
+
+<p id="demo">Click the button below to get your coordinates:</p>
+<button onclick="getLocation()">Your Location</button>
+<script>
+var x=document.getElementById("demo");
+function getLocation()
+  {
+  if (navigator.geolocation)
+    {
+    navigator.geolocation.getCurrentPosition(showPosition);
+    }
+  else{x.innerHTML="Geolocation is not supported by this browser.";}
+  }
+function showPosition(position)
+  {
+  x.innerHTML="Latitude: " + position.coords.latitude + 
+  "<br>Longitude: " + position.coords.longitude;  
+  }
+</script>
+
+</div>
+
+</body>
+</html>

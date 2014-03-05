@@ -1,12 +1,6 @@
-html, body {
-  background: #f0efe6;
-  min-width: 400px;
-}
-#map {
-  background: #eee;
-  top: 4px;
-  width:100%;
-  height: auto;
+html,body{
+	background: #f0efe6;
+	 min-width: 400px;
 }
 #menubar {
     background: #f0efe6;
@@ -18,7 +12,6 @@ html, body {
 	height: 50px;
 	box-shadow: 5px 5px 2px #e0c8d2;
 }
-
 img{
     padding-top: 5px;
 	float: left;
@@ -52,5 +45,19 @@ a:link{
 a:hover {
 	color: #800000;
 	}
-	
 
+.lcontainer{
+ float:left;
+ margin:10px;
+ width:40%;
+ height: 90%;
+  box-shadow: 5px 5px #e0c8d2;
+ padding: 3px;
+}
+
+.rcontainer{
+ float: right;
+ margin:10px;
+ width:40%;
+ padding:2px;
+}
