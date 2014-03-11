@@ -4,14 +4,10 @@ html,body{
 }
 #menubar {
     background: #f0efe6;
-	position: relative;
-	top: 0;
-	bottom: 0;
-	left: 2px;
-	right: 0;
+	
 	height: 50px;
-	box-shadow: 5px 5px 2px #e0c8d2;
-}
+	}
+
 img{
     padding-top: 5px;
 	float: left;
@@ -46,18 +42,18 @@ a:hover {
 	color: #800000;
 	}
 
+
+.rcontainer
+{
+ float: left;
+ margin:10px;
+ width:100%;
+ padding:2px;
+}
+
 .lcontainer{
  float:left;
  margin:10px;
- width:40%;
- height: 90%;
-  box-shadow: 5px 5px #e0c8d2;
+ width:100%;
  padding: 3px;
-}
-
-.rcontainer{
- float: right;
- margin:10px;
- width:40%;
- padding:2px;
 }
