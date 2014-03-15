@@ -1,19 +1,26 @@
 html, body {
   background: #f0efe6;
-  min-width: 400px;
 }
 #map {
   background: #eee;
-  position:fixed;
+  position: fixed;
   top: 54px;
-  left:0px;
-  right:0;
-  bottom:0px;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 #menubar {
+	float: left;
     background: #f0efe6;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 2px;
+	right: 0;
 	height: 50px;
-	}
+	width: 100%;
+	box-shadow: 5px 5px 2px #e0c8d2;
+}
 
 img{
     padding-top: 5px;
@@ -29,7 +36,7 @@ nav.primary>ul{
 	border-right-width: 0;
 	padding:0;
 	margin: 5px;
-	margin-left: 20px;
+	margin-left: 40px;
 	
 }
 
@@ -48,5 +55,10 @@ a:link{
 a:hover {
 	color: #800000;
 	}
-	
-
+.tableelements{
+font-size:20px;
+}
+.tableelements1{
+font-family: 'Helvetica Neue',Arial,sans-serif;
+	color: #808080;
+}

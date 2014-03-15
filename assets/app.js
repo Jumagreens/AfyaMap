@@ -40,6 +40,9 @@ var sidebar = L.control.sidebar('sidebar', {
 });
 
 map.addControl(sidebar);
+setTimeout(function () {
+    sidebar.hide();
+}, 5000);
 //Sidebar
 
 
@@ -48,7 +51,7 @@ map.addControl(sidebar);
     // does this feature have a property named popupContent?
     var html = '<table>';
     for (property in feature.properties) {
-      html += "<tr><th>"+property+"</th><td>"+feature.properties[property]+"</td></tr>"
+      html += "<tr><th class='tableelements1'>"+property+"</th><td class='tableelements'>"+feature.properties[property]+"</td></tr>"
     }
     html += '</table>'
    
