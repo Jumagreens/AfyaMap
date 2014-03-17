@@ -3,10 +3,18 @@ html,body{
 	 min-width: 400px;
 }
 #menubar {
+	float: left;
     background: #f0efe6;
-	
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 2px;
+	right: 0;
 	height: 50px;
-	}
+	width: 100%;
+	box-shadow: 5px 5px 2px #e0c8d2;
+}
+	
 
 img{
     padding-top: 5px;
@@ -46,10 +54,34 @@ a:hover {
 
 .lcontainer{
  float:left;
+ position:fixed;
+ top:54px;
+ bottom:0;
+ right: 3px;
  height:100%;
  width:100%;
  padding: 0;
 }
 
-
+ #locate{
+ border: 2px solid #f7f7f7;
+ padding: 10px; 
+ background-color: #f7f7f7; 
+ text-transform: capitalize; 
+ position: absolute; 
+ right: 735px; 
+ top: 128px; 
+ height: 110px;
+}
 	
+button{
+ border: 1px solid  #f0efe6;
+ background-color:  #f0efe6; 
+ font-family: 'Helvetica Neue',Arial,sans-serif;
+	color: #808080;
+ font-weight: bold; 
+ text-transform: capitalize; 
+ width: 150px;
+ }
+ 
+
