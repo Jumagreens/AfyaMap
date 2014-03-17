@@ -43,17 +43,10 @@ a:hover {
 	}
 
 
-.rcontainer
-{
- float: left;
- margin:10px;
- width:100%;
- padding:2px;
-}
 
 .lcontainer{
  float:left;
- margin:10px;
+ height:100%;
  width:100%;
  padding: 3px;
 }
