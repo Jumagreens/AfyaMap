@@ -10,17 +10,11 @@ html, body {
   bottom: 0;
 }
 #menubar {
-	float: left;
     background: #f0efe6;
-	position: relative;
-	top: 0;
-	bottom: 0;
-	left: 2px;
-	right: 0;
+	
 	height: 50px;
-	width: 100%;
-	box-shadow: 5px 5px 2px #e0c8d2;
-}
+	}
+
 
 img{
     padding-top: 5px;
