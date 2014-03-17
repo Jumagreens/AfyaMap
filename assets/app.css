@@ -4,10 +4,7 @@ html, body {
 #map {
   background: #eee;
   position: relative;
-  top: 54px;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  
 }
 #menubar {
     background: #f0efe6;
