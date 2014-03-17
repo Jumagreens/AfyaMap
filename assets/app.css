@@ -12,7 +12,7 @@ html, body {
 #menubar {
 	float: left;
     background: #f0efe6;
-	position: fixed;
+	position: relative;
 	top: 0;
 	bottom: 0;
 	left: 2px;
