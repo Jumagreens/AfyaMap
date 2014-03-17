@@ -3,7 +3,11 @@ html, body {
 }
 #map {
   background: #eee;
-  position: relative;
+  position: fixed;
+  top:54px;
+  left:0px;
+  right:0px;
+  bottom:0px;
   
 }
 #menubar {
