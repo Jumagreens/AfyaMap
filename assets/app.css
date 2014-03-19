@@ -1,31 +1,32 @@
 html, body {
   background: #f0efe6;
 }
-#map {
-  float:left;
-  background: #eee;
-  position: absolute;
-  top:60px;
-  left:0px;
-  right:0px;
-  bottom:0px;
-  min-height: 90%;
-  
-}
+
 #menubar {
     background: #f0efe6;
 	
-	height: 50px;
+	height: auto;
 	}
 
+#map {
+  float:left;
+  background: #eee;
+  position: fixed;
+  top: 10%;
+  right:0px;
+  left:0px;
+  bottom:0px;
+}
 
 img{
     padding-top: 5px;
 	float: left;
+
 	}
 
 nav.primary{
 	float: left;
+	
 	}
 	
 nav.primary>ul{
@@ -52,4 +53,5 @@ a:link{
 a:hover {
 	color: #800000;
 	}
+
 
