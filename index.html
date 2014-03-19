@@ -5,7 +5,7 @@
   <title>AfyaMap</title>
   <meta name="description" content="A simple app that maps out health initiatives in Tanzania">
 
-  <meta name="viewport" content="width=device-width, user-scalable=false">
+  <meta name="viewport" content="width=device-width, user-scalable=false" initial-scale="1">
 
   
   <link rel="stylesheet" href="libraries/leaflet-0.6.4/leaflet.css">
@@ -26,6 +26,7 @@
 
 <body>
 
+<div data-role="header">
 <div id="menubar">
 <img src="assets/images/AfyaMap_logo.png" alt="AfyaMap - Tanzania Health Initiative">
 <nav class="primary">
@@ -41,9 +42,10 @@
   </li>
  </ul>
 </nav> 
- 
+ </div>
 </div>
-  <div id="map"></div>
+<div id="content" data-role="content">
+  <div id="map"></div></div>
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
   <![endif]-->
@@ -59,7 +61,6 @@
   <script src="libraries/leaflet-search/leaflet-search.js"></script>
   <script src="assets/app.js"></script>
   <script src="libraries/leaflet-sidebar/leaflet-sidebar.js"></script>
-<script src='http://code.jquery.com/jquery-1.7.1.min.js'></script>
 <script src='http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js'></script>
 
 
