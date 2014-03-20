@@ -19,22 +19,16 @@
 
 <body>
 
-<div id="menubar">
-<img src="assets/images/AfyaMap_logo.png" alt="AfyaMap - Tanzania Health Initiative">
-<nav class="primary">
-<ul>
-  <li class="homeitems">
-	<a class="tab" href="index.html">Home</a>
-  </li>
-  <li class="homeitems">
-	<a class="tab" href="#">contact us</a>
-  </li>
-  <li class="homeitems">
-	<a class="tab" href="#">new centre</a>
-  </li>
- </ul>
-</nav> 
-</div>
+<!-- Menu Bar-->
+  <div id="menubar">
+    <script src="libraries/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript">
+    $( document ).ready(function() {
+      $("#menubar").load("menu.html");
+    });
+    </script> 
+  </div>
+<!-- Menu Bar-->
 
 <!--div  class="rcontainer"
 

@@ -24,40 +24,32 @@
 </head>
 
 <body>
-
-<div id="menubar">
-<img src="assets/images/AfyaMap_logo.png" alt="AfyaMap - Tanzania Health Initiative">
-<nav class="primary">
-<ul>
-  <li class="homeitems">
-	<a class="tab" href="#">about map</a>
-  </li>
-  <li class="homeitems">
-	<a class="tab" href="#">contact us</a>
-  </li>
-  <li class="homeitems">
-	<a class="tab" href="add.html">new centre</a>
-  </li>
- </ul>
-</nav> 
- 
-</div>
+<!-- Menu Bar-->
+  <div id="menubar">
+    <script src="libraries/jquery-2.0.3.min.js"></script>
+    <script type="text/javascript">
+    $( document ).ready(function() {
+      $("#menubar").load("menu.html");
+    });
+    </script> 
+  </div>
+<!-- Menu Bar-->
   <div id="map"></div>
   <!--[if lte IE 8]>
       <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
-  <![endif]-->
+      <![endif]-->
 
-  <script src="libraries/jquery-2.0.3.min.js"></script>
-  <script src="libraries/leaflet-0.6.4/leaflet.js"></script>
-  <script src="libraries/leaflet-locate/L.Control.Locate.js"></script>
-  <script src="libraries/leaflet-search/leaflet-search.js"></script>
-  <script src="assets/app.js"></script>
-  <script src="libraries/leaflet-sidebar/leaflet-sidebar.js"></script>
-  
-  <div id="sidebar">
-    <h1>leaflet-sidebar</h1>
- </div>
- 
- 
-</body>
-</html>
+
+      <script src="libraries/leaflet-0.6.4/leaflet.js"></script>
+      <script src="libraries/leaflet-locate/L.Control.Locate.js"></script>
+      <script src="libraries/leaflet-search/leaflet-search.js"></script>
+      <script src="assets/app.js"></script>
+      <script src="libraries/leaflet-sidebar/leaflet-sidebar.js"></script>
+
+      <div id="sidebar">
+        <h1>leaflet-sidebar</h1>
+      </div>
+
+
+    </body>
+    </html>
