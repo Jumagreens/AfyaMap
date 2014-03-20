@@ -5,7 +5,7 @@
   <title>AfyaMap</title>
   <meta name="description" content="A simple app that maps out health initiatives in Tanzania">
 
-  <meta name="viewport" content="width=device-width, user-scalable=false">
+  <meta name="viewport" content="width=device-width, user-scalable=false" initial-scale="1">
 
   
   <link rel="stylesheet" href="libraries/leaflet-0.6.4/leaflet.css">
@@ -21,9 +21,11 @@
   <link rel="icon" href="assets/icons/afyamap_icon_16.png" type="image/png">
   <link rel="shortcut icon" href="assets/icons/afyamap_icon_16.png" type="image/png">
   <link rel="apple-touch-startup-image" href="assets/images/loadscreen.png">
+<link rel='stylesheet' href='http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.css' />
 </head>
 
 <body>
+<<<<<<< HEAD
 <!-- Menu Bar-->
   <div id="menubar">
     <script src="libraries/jquery-2.0.3.min.js"></script>
@@ -53,3 +55,47 @@
 
     </body>
     </html>
+=======
+
+<div data-role="header">
+<div id="menubar">
+<img src="assets/images/AfyaMap_logo.png" alt="AfyaMap - Tanzania Health Initiative">
+<nav class="primary">
+<ul>
+  <li class="homeitems">
+	<a class="tab" href="#">about map</a>
+  </li>
+  <li class="homeitems">
+	<a class="tab" href="#">contact us</a>
+  </li>
+  <li class="homeitems">
+	<a class="tab" href="add.html">new centre</a>
+  </li>
+ </ul>
+</nav> 
+ </div>
+</div>
+<div id="content" data-role="content">
+  <div id="map"></div></div>
+  <!--[if lte IE 8]>
+      <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+  <![endif]-->
+
+ 
+  <div id="sidebar">
+    <h1>leaflet-sidebar</h1>
+ </div>
+ 
+  <script src="libraries/jquery-2.0.3.min.js"></script>
+  <script src="libraries/leaflet-0.6.4/leaflet.js"></script>
+  <script src="libraries/leaflet-locate/L.Control.Locate.js"></script>
+  <script src="libraries/leaflet-search/leaflet-search.js"></script>
+  <script src="assets/app.js"></script>
+  <script src="libraries/leaflet-sidebar/leaflet-sidebar.js"></script>
+<script src='http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js'></script>
+
+
+  
+</body>
+</html>
+>>>>>>> 2c3ed1b6d4856ec433fbd107c7b58c167beee998
