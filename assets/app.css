@@ -3,19 +3,19 @@ html, body {
 }
 
 #menubar {
+    float:left;
     background: #f0efe6;
-	
 	height: auto;
+	
 	}
 
 #map {
   float:left;
   background: #eee;
-  position: fixed;
-  top: 10%;
-  right:0px;
-  left:0px;
-  bottom:0px;
+  position:relative;
+  width:100%;
+  height: 730px;
+  border-top:2px solid #e0c8d2;
 }
 
 img{
