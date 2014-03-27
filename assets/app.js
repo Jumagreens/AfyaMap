@@ -1,6 +1,6 @@
 var map;
 $(function() {
-  map = L.map('map').setView(new L.LatLng(-6.13305, 35.74194), 6);
+  map = L.map('map').setView(new L.LatLng(-6.1731, 35.741), 6);
 
   L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
       attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
