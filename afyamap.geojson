@@ -6,9 +6,10 @@
             "type": "Feature",
             "properties": {
                 "name": "Mwananyamala Hospital",
-                "Category":"Hospital",
                 "address": "Makumbusho",
+                
                 "city": "Dar es Salaam",
+
                 "phone": "+255 22 276 0499"
             },
             "geometry": {
@@ -23,8 +24,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Magomeni Hospital",
-                "Category":"Hospital",
                 "address": "Magomeni Mikumi",
+                
                 "city": "Dar es Salaam",
                 "phone": "+255 (22) 2171871"
             },
@@ -40,8 +41,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Amana Hospital",
-                "Category":"Hospital"
                 "address": "Ilala",
+                
                 "city": "Dar es Salaam",
                 "phone": "+255 22 2151364-9"
             },
@@ -57,8 +58,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Temeke Hospital",
-                "Category":"Hospital"
                 "address": "Temeke",
+                
                 "city": "Dar es Salaam",
                 "phone": "+255 (22)2856515"
             },
@@ -74,8 +75,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ebrahim Haji Hospital",
-                "Category":"Hospital",
                 "address": "Gerezani",
+                
                 "city": "Dar es Salaam",
                 "phone": "+255 22 211 4995",
                 "web": "www.ebrahimhaji.com"
@@ -92,8 +93,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kilimanjaro Christian Medical Centre (KCMC)",
-                "Category":"Hospital",
                 "address": "Moshi",
+                
                 "city": "Kilimanjaro",
                 "phone": "+255 27 2754377-2754383",
                 "web": "www.kcmc.ac.tz"
@@ -110,8 +111,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Tumbi Special Hospital",
-                "Category":"Hospital",
                 "address": "Kibaha",
+                
                 "city": "Pwani",
                 "phone": "+255 23 2402101",
                 "web": "www.kec.or.tz"
@@ -128,8 +129,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Berega Hospital",
-                "Category":"Hospital",
                 "address": "Morogoro",
+                
                 "city": "Morogoro",
                 "phone": "+255 23 2628500",
                 "web": "#"
@@ -146,8 +147,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bugando Medical Centre",
-                "Category":Hospital
                 "address": "Bugando",
+                
                 "city": "Mwanza",
                 "phone": "+255 28 406105",
                 "web": "www.bugandomedicalcentre.go.tz"
@@ -164,8 +165,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kisarawe District Hospital",
-                "Category":Hospital
                 "address": "Kisarawe",
+                
                 "city": "Pwani",
                 "phone": "#",
                 "web": "#"
@@ -182,8 +183,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bagamoyo Hospital",
-                "Category":Hospital
                 "address": "Bagamoyo",
+                
                 "city": "Pwani",
                 "phone": "#",
                 "web": "#"
@@ -200,8 +201,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Dodoma Christian Medical Centre (DCMC)",
-                "Category":Hospital
                 "address": "Chamwino",
+                
                 "city": "Dodoma",
                 "phone": "+255 26 2321051",
                 "web": "#"
@@ -218,8 +219,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Marangu Hospital",
-                "Category":Hospital
                 "address": "Marangu",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -236,8 +237,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mawenzi Hospital",
-                "Category":Hospital
                 "address": "Near Uhuru Park",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -254,8 +255,8 @@
             "type": "Feature",
             "properties": {
                 "name": "SANITA Medics and Diagnostics ltd",
-                "Category":Hospital
                 "address": "plot 168 along Mwai Kibaki Rd,Mikocheni",
+                
                 "city": "Dar es Salaam",
                 "phone": "+255 222 701410/+255 688 863035",
                 "web": "www.sanitasmedics.com"
@@ -272,8 +273,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Lugalo General Military Hospital",
-                "Category":Hospital
                 "address": "Kawe,along Bagamoyo Road",
+                
                 "city": "Dar es Salaam",
                 "phone": "0025522 277 5184",
                 "web": "#"
@@ -290,8 +291,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kilimanjaro Hospital",
-                "Category":Hospital
                 "address": "Near Ngujini Road",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -308,8 +309,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Maweni Hospital",
-                "Category":Hospital
                 "address": "Lumumba Street",
+                
                 "city": "Kigoma",
                 "phone": "#",
                 "web": "#"
@@ -326,8 +327,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kigoma Regional Hospital",
-                "Category":Hospital
                 "address": "Lumumba Street",
+                
                 "city": "Kigoma",
                 "phone": "#",
                 "web": "#"
@@ -344,8 +345,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Shinyanga Regional Hospital",
-                "Category":Hospital
                 "address": "Shinyanga",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -362,8 +363,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bombo Regional Hospital",
-                "Category":Hospital
                 "address": "Hospital Road",
+                
                 "city": "Tanga",
                 "phone": "#",
                 "web": "#"
@@ -380,8 +381,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Lugala Hospital",
-                "Category":Hospital
                 "address": "Near Malinyi Village, Ulanga District",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -398,8 +399,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Dareda Designated Hospital",
-                "Category":Hospital
                 "address": "Babati District",
+                
                 "city": "Manyara",
                 "phone": "+255 272 531245",
                 "web": "www.daredahospital.com"
@@ -416,8 +417,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ligula Hospital",
-                "Category":Hospital
                 "address": "Near Jamhuri Road",
+                
                 "city": "Mtwara",
                 "phone": "#",
                 "web": "#"
@@ -434,8 +435,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Sokoine (Lindi) Hospital",
-                "Category":Hospital
                 "address": "B2",
+                
                 "city": "Lindi",
                 "phone": "#",
                 "web": "#"
@@ -452,8 +453,8 @@
             "type": "Feature",
             "properties": {
                 "name": "St. Walburg's Hospital",
-                "Category":Hospital
                 "address": "Nyangao",
+                
                 "city": "Lindi",
                 "phone": "+255 717 119665",
                 "web": "www.nyangaohospital.com‎"
@@ -470,8 +471,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kitete Hospital",
-                "Category":Hospital
                 "address": "Near Itetemia Road",
+                
                 "city": "Tabora",
                 "phone": "+255 26 2605950",
                 "web": "#"
@@ -488,8 +489,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Sumbawanga District Hospital",
-                "Category":Hospital
                 "address": "Sumbawanga",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -506,8 +507,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Rukwa Regional Hospital",
-                "Category":Hospital
                 "address": "Sumbawanga",
+                
                 "city": "Rukwa",
                 "phone": "+255 25 2802078",
                 "web": "#"
@@ -524,8 +525,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Iringa Regional Hospital",
-                "Category":Hospital
                 "address": "Near Iringa District Prison",
+                
                 "city": "Iringa",
                 "phone": "#",
                 "web": "#"
@@ -542,8 +543,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Imecc Hospital",
-                "Category":Hospital
                 "address": "Near National Milling Corporation",
+                
                 "city": "Iringa",
                 "phone": "#",
                 "web": "#"
@@ -560,8 +561,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ngome Hospital",
-                "Category":Hospital
                 "address": "Near Ngome Primary School",
+                
                 "city": "Iringa",
                 "phone": "#",
                 "web": "#"
@@ -578,8 +579,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bukoba Provincial Hospital",
-                "Category":Hospital
                 "address": "Near Uganda Road",
+                
                 "city": "Bukoba",
                 "phone": "#",
                 "web": "#"
@@ -596,8 +597,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Aghakhan Primary Medical Centre",
-                "Category":Hospital
                 "address": "Behind Aghakhan Mosque",
+                
                 "city": "Mwanza",
                 "phone": "#",
                 "web": "#"
@@ -614,8 +615,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Dodoma Urban Hospital",
-                "Category":Hospital
                 "address": "Makole",
+                
                 "city": "Dodoma",
                 "phone": "#",
                 "web": "#"
@@ -633,8 +634,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kondoa District Hospital",
-                "Category":Hospital
                 "address": "Kondoa Mjini",
+                
                 "city": "Dodoma",
                 "phone": "#",
                 "web": "#"
@@ -652,8 +653,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kongwa District Hospital",
-                "Category":Hospital
                 "address": "Kongwa Mjini",
+                
                 "city": "Dodoma",
                 "phone": "#",
                 "web": "#"
@@ -671,8 +672,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ludewa Hospital",
-                "Category":Hospital
                 "address": "Mawengi Ludewa",
+                
                 "city": "Iringa",
                 "phone": "#",
                 "web": "#"
@@ -690,8 +691,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ilembula Lutheran Hospital",
-                "Category":Hospital
                 "address": "Usuka Njombe",
+                
                 "city": "Iringa",
                 "phone": "#",
                 "web": "#"
@@ -709,8 +710,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kabanga Hospital",
-                "Category":Hospital
                 "address": "Kabanga Ngara",
+                
                 "city": "Bukoba",
                 "phone": "#",
                 "web": "#"
@@ -728,8 +729,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kasulu District Hospital",
-                "Category":Hospital
                 "address": "Kasulu",
+                
                 "city": "Kigoma",
                 "phone": "#",
                 "web": "#"
@@ -747,8 +748,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Heri Adventist Hospital",
-                "Category":Hospital
                 "address": "Muhunga Kasulu",
+                
                 "city": "Kigoma",
                 "phone": "#",
                 "web": "#"
@@ -766,8 +767,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Saint Joseph Hospital",
-                "Category":Hospital
                 "address": "Moshi Urban Near Soweto Graves",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -785,8 +786,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Moshi Arusha Hospital",
-                "Category":Hospital
                 "address": "Along side Arusha Himo road",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -804,8 +805,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kilema Hospital",
-                "Category":Hospital
                 "address": "Kilema",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -823,8 +824,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Hai District Hospital",
-                "Category":Hospital
                 "address": "District Hospital",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -842,8 +843,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Marangu Hospital",
-                "Category":Hospital
                 "address": "Marangu",
+                
                 "city": "Moshi",
                 "phone": "#",
                 "web": "#"
@@ -861,8 +862,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nkansi District Hospital",
-                "Category":Hospital
                 "address": "Namanyere Sumbawanga",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -880,8 +881,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nyarero Hospital",
-                "Category":Hospital
                 "address": "Nyamwanga",
+                
                 "city": "Musoma",
                 "phone": "#",
                 "web": "#"
@@ -899,8 +900,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Tarime District Hospital",
-                "Category":Hospital
                 "address": "Near Kenya Road Tarime",
+                
                 "city": "Musoma",
                 "phone": "#",
                 "web": "#"
@@ -918,8 +919,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Winan Hospital",
-                "Category":Hospital
                 "address": "Near Nyamongo Road Nyamongo Tarime",
+                
                 "city": "Musoma",
                 "phone": "#",
                 "web": "#"
@@ -937,8 +938,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nyamongo Hospital",
-                "Category":Hospital
                 "address": "Nyamongo Tarime",
+                
                 "city": "Musoma",
                 "phone": "#",
                 "web": "#"
@@ -956,8 +957,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Musoma Hospital",
-                "Category":Hospital
                 "address": "Lake Victoria Penisula",
+                
                 "city": "Musoma",
                 "phone": "#",
                 "web": "#"
@@ -975,8 +976,8 @@
             "type": "Feature",
             "properties": {
                 "name": "St. Ann Mission Hospital",
-                "Category":Hospital
                 "address": "Uyui",
+                
                 "city": "Tabora",
                 "phone": "#",
                 "web": "#"
@@ -994,8 +995,8 @@
             "type": "Feature",
             "properties": {
                 "name": "St.Philip Health Centre",
-                "Category": "Health Center"
                 "address": "Uyui",
+                
                 "city": "Tabora",
                 "phone": "#",
                 "web": "#"
@@ -1013,8 +1014,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Rusesa Health Centre",
-                "Category":"Health Center"
                 "address": "Musosi",
+                
                 "city": "Kigoma",
                 "phone": "#",
                 "web": "#"
@@ -1032,8 +1033,8 @@
             "type": "Feature",
             "properties": {
                 "name": "AghaKhan Hospital",
-                "Category":Hospital
                 "address": "Behind Uhuru Street Near Madaraka Road",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -1051,8 +1052,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Morogoro Regional Hospital",
-                "Category":Hospital
                 "address": "Near Old Dar es Salaam Road",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -1070,8 +1071,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mpanda District Hospital",
-                "Category":Hospital
                 "address": "Mpanda",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -1089,8 +1090,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Katandala Health Centre",
-                "Category":"Health Center"
                 "address": "Katandala",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -1108,8 +1109,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mpui Health Centre",
-                "Category":"Health Center"
                 "address": "Near Sumbawanga Tunduma Road Mpui Sumbawanga",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -1127,8 +1128,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Laela Health Centre",
-                "Category":"Health Center"
                 "address": "Near Sumbawanga Tunduma Road",
+                
                 "city": "Rukwa",
                 "phone": "#",
                 "web": "#"
@@ -1146,8 +1147,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Urambo District Hospital",
-                "Category":Hospital
                 "address": "Urambo",
+                
                 "city": "Tabora",
                 "phone": "#",
                 "web": "#"
@@ -1165,8 +1166,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Seketoule Hospital",
-                "Category":Hospital
                 "address": "Machemba Road Ilemela",
+                
                 "city": "Mwanza",
                 "phone": "#",
                 "web": "#"
@@ -1184,8 +1185,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bariadi District Hospital",
-                "Category":Hospital
                 "address": "Bariadi",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1203,8 +1204,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Sengerema District Hospital",
-                "Category":Hospital
                 "address": "Kamanga Road Sengerema",
+                
                 "city": "Mwanza",
                 "phone": "+255 28 259 0018 ‎",
                 "web": "#"
@@ -1222,8 +1223,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Zogolo Health Centre",
-                "Category":"Health Center"
                 "address": "Nzega",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1241,8 +1242,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nzega District Hospital",
-                "Category":Hospital
                 "address": "Nzega",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1260,8 +1261,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nkinga Hospital",
-                "Category":Hospital
                 "address": "Nkinga",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1279,8 +1280,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Magu District Hospital",
-                "Category":Hospital
                 "address": "Magu District",
+                
                 "city": "Mwanza",
                 "phone": "#",
                 "web": "#"
@@ -1298,8 +1299,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kikubiji Health Centre",
-                "Category":"Health Center"
                 "address": "Kwimba",
+                
                 "city": "Mwanza",
                 "phone": "#",
                 "web": "#"
@@ -1317,8 +1318,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Magu Hospital",
-                "Category":Hospital
                 "address": "Magu District",
+                
                 "city": "Mwanza",
                 "phone": "#",
                 "web": "#"
@@ -1336,8 +1337,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mwadui Hospital",
-                "Category":Hospital
                 "address": "Kishapu Mwadui",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1355,8 +1356,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kolandoto Hospital",
-                "Category":Hospital
                 "address": "Kolandoto",
+                
                 "city": "Shinyanga",
                 "phone": "#",
                 "web": "#"
@@ -1374,8 +1375,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Chalinze Health Centre",
-                "Category":"Health Center"
                 "address": "Chalinze",
+                
                 "city": "Pwani",
                 "phone": "#",
                 "web": "#"
@@ -1393,8 +1394,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mgolole Dispensary",
-                "Category":"Dispensary"
                 "address": "Chalinze",
+                
                 "city": "Pwani",
                 "phone": "#",
                 "web": "#"
@@ -1412,8 +1413,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Uluguru Health Centre",
-                "Category":"Health Center"
                 "address": "Morogoro Urban",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -1426,12 +1427,13 @@
 
                 ]
             }
+        },
 		{
             "type": "Feature",
             "properties": {
                 "name": "St. Harrys Dispensary",
-                "Category":"Dispensary"
                 "address": "Madaraka Road",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -1449,8 +1451,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbeya Referral Hospital",
-                "Category":Hospital
                 "address": "Near Hospital Hill Road Sisimba",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -1467,8 +1469,8 @@
             "type": "Feature",
             "properties": {
                 "name": "K's Quality Hospital",
-                "Category":Hospital
                 "address": "Forest",
+                
                 "city": "Mbeya",
                 "phone": "+255 25 250 4378",
                 "web": "#"
@@ -1485,8 +1487,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Meta Maternity Hospital",
-                "Category":Hospital
                 "address": "Mabatini",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -1503,8 +1505,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ifisi Hospital",
-                "Category":Hospital
                 "address": "Few Kilometres From Songwe Airport",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -1521,8 +1523,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Igogwe Mission Hospital",
-                "Category":Hospital
                 "address": "Rungwe",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -1539,8 +1541,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Makandana Hospital",
-                "Category":Hospital
                 "address": "Tukuyu",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -1557,8 +1559,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbozi Mission Hospital",
-                "Category":Hospital
                 "address": "Mbozi",
+                
                 "city": "Mbeya",
                 "phone": "+255 25 258 0082‎",
                 "web": "#"
@@ -1575,8 +1577,8 @@
             "type": "Feature",
             "properties": {
                 "name": "AghaKhan Medical Centre",
-                "Category":Hospital
                 "address": "Near Miti Mirefu Road",
+                
                 "city": "Mwanza",
                 "phone": "#‎",
                 "web": "#"
@@ -1593,8 +1595,8 @@
             "type": "Feature",
             "properties": {
                 "name": "AghaKhan Medical Centre",
-                "Category":Hospital
                 "address": "Near Market Square",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -1611,8 +1613,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbeya Regional Hospital",
-                "Category":Hospital
                 "address": "Nzovwe",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -1629,8 +1631,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbozi District Hospital",
-                "Category":Hospital
                 "address": "Near Mbozi District Government HQ Mbozi",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -1647,8 +1649,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Konde Health Centre",
-                "Category":"Health Center"
                 "address": "Tukuyu",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -1665,8 +1667,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Agha Khan Hospital",
-                "Category":Hospital
                 "address": "Sixth Street",
+                
                 "city": "Dodoma",
                 "phone": "#‎",
                 "web": "#"
@@ -1683,8 +1685,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Sandy Hill Hospital",
-                "Category":Hospital
                 "address": "Amani Road",
+                
                 "city": "Dodoma",
                 "phone": "#‎",
                 "web": "#"
@@ -1701,8 +1703,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Dodoma University Hospital",
-                "Category":Hospital
                 "address": "University of Dodoma Campus",
+                
                 "city": "Dodoma",
                 "phone": "#‎",
                 "web": "#"
@@ -1719,8 +1721,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nkuhungu Community Hospital",
-                "Category":Hospital
                 "address": "Nkuhungu",
+                
                 "city": "Dodoma",
                 "phone": "#‎",
                 "web": "#"
@@ -1737,8 +1739,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Brigita Dispensary",
-                "Category":"Dispensary"
                 "address": "Makonde Street",
+                
                 "city": "Lindi",
                 "phone": "#‎",
                 "web": "#"
@@ -1755,8 +1757,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kitomanga Health Centre",
-                "Category":"Health Center"
                 "address": "Kitomanga",
+                
                 "city": "Lindi",
                 "phone": "#‎",
                 "web": "#"
@@ -1773,8 +1775,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Masoko Urban Health Centre",
-                "Category":"Health Center"
                 "address": "Kariakoo Street Kilwa Masoko Kilwa",
+                
                 "city": "Lindi",
                 "phone": "#‎",
                 "web": "#"
@@ -1791,8 +1793,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Rehema Health Centre",
-                "Category":"Health Center"
                 "address": "Newala",
+                
                 "city": "Mtwara",
                 "phone": "#‎",
                 "web": "#"
@@ -1809,8 +1811,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nachingwea District Hospital",
-                "Category":Hospital
                 "address": "Nachingwea",
+                
                 "city": "Mtwara",
                 "phone": "#",
                 "web": "#"
@@ -1827,8 +1829,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Newala District Hospital",
-                "Category":Hospital
                 "address": "Newala",
+                
                 "city": "Mtwara",
                 "phone": "#",
                 "web": "#"
@@ -1845,8 +1847,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Tandahimba District Hospital",
-                "Category":Hospital
                 "address": "Near Congo Street Tandahimba",
+                
                 "city": "Mtwara",
                 "phone": "#",
                 "web": "#"
@@ -1863,8 +1865,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ilininda Dispensary",
-                "Category":"Dispensary"
                 "address": "Near Madilu Ilininda Road",
+                
                 "city": "Ludewa Iringa",
                 "phone": "#",
                 "web": "#"
@@ -1881,8 +1883,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Manga Dispensary",
-                "Category":"Dispensary"
                 "address": "Near Lusitu Madilu Road",
+                
                 "city": "Ludewa Iringa",
                 "phone": "#",
                 "web": "#"
@@ -1899,8 +1901,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Matemanga Health Centre",
-                "Category":"Health Center"
                 "address": "Matemanga Tunduru",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -1917,8 +1919,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Natembo Dispensary",
-                "Category":"Dispensary"
                 "address": "Tunduru",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -1935,8 +1937,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mtina Health Centre",
-                "Category":"Health Center"
                 "address": "Tunduru",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -1953,8 +1955,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Namasakata Dispensary",
-                "Category":"Dispensary"
                 "address": "Tunduru",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -1971,8 +1973,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ulanga District Hospital",
-                "Category":Hospital
                 "address": "Ulanga",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "#"
@@ -1989,8 +1991,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Lugala Lutheran Hospital",
-                "Category":Hospital
                 "address": "Ulanga",
+                
                 "city": "Morogoro",
                 "phone": "#",
                 "web": "www.health.elct.org"
@@ -2007,8 +2009,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Tanwattle Hospital",
-                "Category":Hospital
                 "address": "Njombe Makambako Road",
+                
                 "city": "Njombe Iringa",
                 "phone": "#",
                 "web": "#"
@@ -2025,8 +2027,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kibena Hospital",
-                "Category":Hospital
                 "address": "Njombe Songea Road",
+                
                 "city": "Njombe Iringa",
                 "phone": "#",
                 "web": "#"
@@ -2043,8 +2045,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbessa Mission Hospital",
-                "Category":Hospital
                 "address": "Tunduru",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -2061,8 +2063,8 @@
             "type": "Feature",
             "properties": {
                 "name": "ST. Anne's Mission Hospital",
-                "Category":Hospital
                 "address": "Near Tanzania Malawi Border Mbinga",
+                
                 "city": "Mbinga Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -2079,8 +2081,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kigonsera Health Centre",
-                "Category":"Health Center"
                 "address": "Kigonsera Mbinga",
+                
                 "city": "Mbinga Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -2097,8 +2099,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mkongo Health Centre",
-                "Category":"Health Center"
                 "address": "Songea",
+                
                 "city": "Songea",
                 "phone": "#",
                 "web": "#"
@@ -2115,8 +2117,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Namabengo Health Centre",
-                "Category":"Health Center"
                 "address": "Songea",
+                
                 "city": "Songea",
                 "phone": "#",
                 "web": "#"
@@ -2133,8 +2135,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Litembo Hospital",
-                "Category":Hospital
                 "address": "Mbinga",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -2151,8 +2153,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Namtumbo District Hospital",
-                "Category":Hospital
                 "address": "Namtumbo",
+                
                 "city": "Songea",
                 "phone": "#",
                 "web": "#"
@@ -2169,8 +2171,8 @@
             "type": "Feature",
             "properties": {
                 "name": "St. Joseph's  Hospital",
-                "Category":Hospital
                 "address": "Songea",
+                
                 "city": "Songea",
                 "phone": "#",
                 "web": "#"
@@ -2187,8 +2189,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ruvuma Regional Hospital",
-                "Category":Hospital
                 "address": "Ruvuma Urban",
+                
                 "city": "Ruvuma",
                 "phone": "#",
                 "web": "#"
@@ -2205,8 +2207,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ngulilo Dispensary",
-                "Category":"Dispensary"
                 "address": "Ileje",
+                
                 "city": "Mbeya",
                 "phone": "#",
                 "web": "#"
@@ -2223,8 +2225,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Singida Regional Hospital",
-                "Category":Hospital
                 "address": "Singida",
+                
                 "city": "Singida",
                 "phone": "#",
                 "web": "#"
@@ -2241,8 +2243,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Manyoni District Hospital",
-                "Category":Hospital
                 "address": "Manyoni",
+                
                 "city": "Singida",
                 "phone": "#",
                 "web": "#"
@@ -2259,8 +2261,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Muheza Designated District Hospital",
-                "Category":Hospital
                 "address": "Muheza District",
+                
                 "city": "Tanga",
                 "phone": "+255 27 264 4121",
                 "web": "www.teule.or.tz"
@@ -2277,8 +2279,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nkoaranga Hospital",
-                "Category":Hospital
                 "address": "Arumeru",
+                
                 "city": "Arusha",
                 "phone": "+255 272 553 598",
                 "web": "www.missionhospitallink-tanzania.com"
@@ -2295,8 +2297,8 @@
             "type": "Feature",
             "properties": {
                 "name": "ELCT Health Department",
-                "Category":"Health Center"
                 "address": "Serengeti Road",
+                
                 "city": "Arusha",
                 "phone": "+255 27 250 8856",
                 "web": "health.elct.org"
@@ -2313,8 +2315,8 @@
             "type": "Feature",
             "properties": {
                 "name": "St. Elizabeth Hospital",
-                "Category":Hospital
                 "address": "Ngarenaro",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2331,8 +2333,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mount Meru Regional Hospital",
-                "Category":Hospital
                 "address": "E. African Community Blvd",
+                
                 "city": "Arusha",
                 "phone": "255-27-2503351-3",
                 "web": "http://eol.habari.co.tz/mt-meru-hosp.htm"
@@ -2349,8 +2351,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Soweto General Hospital",
-                "Category":Hospital
                 "address": "Soweto Garden Kaloleni",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2367,8 +2369,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Agha Khan Hospital",
-                "Category":Hospital
                 "address": "Seth Benjmain Road",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2385,8 +2387,8 @@
             "type": "Feature",
             "properties": {
                 "name": "AICC Hospital",
-                "Category":Hospital
                 "address": "AICC Old Moshi Road",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2403,8 +2405,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Themi Hospital",
-                "Category":Hospital
                 "address": "Near Themi Medical Store",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2421,8 +2423,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Selian Lutheran Hospital",
-                "Category":Hospital
                 "address": "Arumeru",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "http://selianlh.habari.co.tz/"
@@ -2439,8 +2441,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Gothard Ati Isaac Onsomu Hospital ",
-                "Category":Hospital
                 "address": "Arusha-Himo Road",
+                
                 "city": "Arusha",
                 "phone": "#",
                 "web": "#"
@@ -2457,8 +2459,8 @@
             "type": "Feature",
             "properties": {
                 "name": "CF Hospital",
-                "Category":Hospital
                 "address": "Station Road , opposite lake hotel",
+                
                 "city": "Mwanza",
                 "phone": "+255 784 734 048 ‎",
                 "web": "#"
@@ -2475,8 +2477,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ndala Mission Hospital",
-                "Category":Hospital
                 "address": "Nzega",
+                
                 "city": "Shinyanga",
                 "phone": "#‎",
                 "web": "#"
@@ -2493,8 +2495,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Hindu Hospital",
-                "Category":Hospital
                 "address": "Balewa Road",
+                
                 "city": "Mwanza",
                 "phone": "#‎",
                 "web": "#"
@@ -2511,8 +2513,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Tumaini Hospital",
-                "Category":Hospital
                 "address": "Makongoro Road",
+                
                 "city": "Mwanza",
                 "phone": "#‎",
                 "web": "#"
@@ -2529,8 +2531,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nyerere Designated District Hospital",
-                "Category":Hospital
                 "address": "Mugumu",
+                
                 "city": "Musoma",
                 "phone": "#‎",
                 "web": "#"
@@ -2547,8 +2549,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bukongo Hospital",
-                "Category":Hospital
                 "address": "Ukerewe",
+                
                 "city": "Mwanza",
                 "phone": "#‎",
                 "web": "#"
@@ -2565,8 +2567,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Hydom Lutheran Hospital",
-                "Category":Hospital
                 "address": "Mbulu Township",
+                
                 "city": "Manyara",
                 "phone": "+255 27 253 3194‎",
                 "web": "#"
@@ -2583,8 +2585,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Konde Health Centre",
-                "Category":"Health Center"
                 "address": "Konde Diosis, Tukuyu",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -2601,8 +2603,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ilasi Dispensary",
-                "Category":"Dispensary"
                 "address": "Behind Tanesco offices, Viwawa",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -2619,8 +2621,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Isongole Health Centre",
-                "Category":"Health Center"
                 "address": "Itumba",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -2637,8 +2639,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mbaya Dispensary",
-                "Category":"Dispensary"
                 "address": "Near Viwawa Central Market",
+                
                 "city": "Mbeya",
                 "phone": "#‎",
                 "web": "#"
@@ -2655,8 +2657,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Ruemeshinye Health Centre",
-                "Category":"Health Center"
                 "address": "Junction of Uganda Road",
+                
                 "city": "Bukoba",
                 "phone": "#"
             },
@@ -2672,8 +2674,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Mazimbu Hospital",
-                "Category":Hospital
                 "address": "Mazimbu",
+                
                 "city": "Morogoro",
                 "phone": "#"
             },
@@ -2689,8 +2691,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Bakwata Hospital",
-                "Category":Hospital
                 "address": "Kibondo",
+                
                 "city": "Kigoma",
                 "phone": "#"
             },
@@ -2706,8 +2708,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Kibondo Hospital",
-                "Category":Hospital
                 "address": "Kibondo",
+                
                 "city": "Kigoma",
                 "phone": "#"
             },
@@ -2723,8 +2725,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Nkwenda Health Centre",
-                "Category":"Health Center"
                 "address": "Kagera",
+                
                 "city": "Bukoba",
                 "phone": "#"
             },
@@ -2740,8 +2742,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Muhimbili National Hospital",
-                "Category":Hospital
                 "address": "Upanga West",
+                
                 "city": "Dar es Salaam",
                 "phone": "#"
             },
