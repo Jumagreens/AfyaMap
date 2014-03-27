@@ -6,7 +6,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Mwananyamala Hospital",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Makumbusho",
                 "city": "Dar es Salaam",
                 "phone": "+255 22 276 0499"
@@ -23,7 +23,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Magomeni Hospital",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Magomeni Mikumi",
                 "city": "Dar es Salaam",
                 "phone": "+255 (22) 2171871"
@@ -40,7 +40,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Amana Hospital",
-                "Category":Hospital
+                "Category":"Hospital"
                 "address": "Ilala",
                 "city": "Dar es Salaam",
                 "phone": "+255 22 2151364-9"
@@ -57,7 +57,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Temeke Hospital",
-                "Category":Hospital
+                "Category":"Hospital"
                 "address": "Temeke",
                 "city": "Dar es Salaam",
                 "phone": "+255 (22)2856515"
@@ -74,7 +74,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Ebrahim Haji Hospital",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Gerezani",
                 "city": "Dar es Salaam",
                 "phone": "+255 22 211 4995",
@@ -92,7 +92,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Kilimanjaro Christian Medical Centre (KCMC)",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Moshi",
                 "city": "Kilimanjaro",
                 "phone": "+255 27 2754377-2754383",
@@ -110,7 +110,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Tumbi Special Hospital",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Kibaha",
                 "city": "Pwani",
                 "phone": "+255 23 2402101",
@@ -128,7 +128,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Berega Hospital",
-                "Category":Hospital
+                "Category":"Hospital",
                 "address": "Morogoro",
                 "city": "Morogoro",
                 "phone": "+255 23 2628500",
