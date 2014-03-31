@@ -101,7 +101,6 @@ nav.primary>ul{
 	padding:0;
 	margin: 5px;
 	margin-left: 40px;
-	
 }
 
 li{
@@ -119,7 +118,11 @@ a:link{
 a:hover {
 	color: #800000;
 	}
-
-
 }
 
+#inputcontainer{
+	position: absolute;
+	left:45px;
+	top:60px;
+	width:40px;
+}

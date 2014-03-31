@@ -14,7 +14,16 @@ html,body{
 	width: 100%;
 	box-shadow: 5px 5px 2px #e0c8d2;
 }
-	
+
+#googleMap{
+ float:right;
+ position:fixed;
+ top:54px;
+ bottom:0;
+ right:0;
+ height:400px;
+ width:49%;
+}
 
 img{
     padding-top: 5px;
@@ -52,14 +61,10 @@ a:hover {
 
 
 .lcontainer{
- float:left;
  position:fixed;
  top:54px;
  bottom:0;
- right: 3px;
- height:100%;
- width:100%;
- padding: 0;
+ width:49%;
 }
 
  #locate{

@@ -1,7 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
-     
         {
             "type": "Feature",
             "properties": {
@@ -1045,7 +1044,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "St.Philip Health Centre",
@@ -1065,7 +1064,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Rusesa Health Centre",
@@ -1145,7 +1144,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Katandala Health Centre",
@@ -1365,7 +1364,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Kikubiji Health Centre",
@@ -1385,7 +1384,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Magu Hospital",
@@ -1505,7 +1504,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "St. Harrys Dispensary",
@@ -1544,7 +1543,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "K's Quality Hospital",
@@ -1563,7 +1562,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Meta Maternity Hospital",
@@ -1582,7 +1581,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ifisi Hospital",
@@ -1601,7 +1600,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Igogwe Mission Hospital",
@@ -1620,7 +1619,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Makandana Hospital",
@@ -1639,7 +1638,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mbozi Mission Hospital",
@@ -1658,7 +1657,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "AghaKhan Medical Centre",
@@ -1677,7 +1676,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "AghaKhan Medical Centre",
@@ -1696,7 +1695,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mbeya Regional Hospital",
@@ -1715,7 +1714,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mbozi District Hospital",
@@ -1734,7 +1733,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Konde Health Centre",
@@ -1753,7 +1752,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Agha Khan Hospital",
@@ -1772,7 +1771,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Sandy Hill Hospital",
@@ -1791,7 +1790,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Dodoma University Hospital",
@@ -1810,7 +1809,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Nkuhungu Community Hospital",
@@ -1829,7 +1828,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Brigita Dispensary",
@@ -1848,7 +1847,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Kitomanga Health Centre",
@@ -1867,7 +1866,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Masoko Urban Health Centre",
@@ -1924,7 +1923,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Newala District Hospital",
@@ -1943,7 +1942,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Tandahimba District Hospital",
@@ -1962,7 +1961,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ilininda Dispensary",
@@ -1981,7 +1980,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Manga Dispensary",
@@ -2000,7 +1999,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Matemanga Health Centre",
@@ -2019,7 +2018,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Natembo Dispensary",
@@ -2038,7 +2037,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mtina Health Centre",
@@ -2057,7 +2056,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Namasakata Dispensary",
@@ -2076,7 +2075,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ulanga District Hospital",
@@ -2114,7 +2113,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Tanwattle Hospital",
@@ -2133,7 +2132,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Kibena Hospital",
@@ -2152,7 +2151,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mbessa Mission Hospital",
@@ -2171,7 +2170,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "ST. Anne's Mission Hospital",
@@ -2190,7 +2189,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Kigonsera Health Centre",
@@ -2209,7 +2208,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mkongo Health Centre",
@@ -2228,7 +2227,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Namabengo Health Centre",
@@ -2247,7 +2246,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Litembo Hospital",
@@ -2266,7 +2265,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Namtumbo District Hospital",
@@ -2285,7 +2284,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "St. Joseph's  Hospital",
@@ -2304,7 +2303,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ruvuma Regional Hospital",
@@ -2323,7 +2322,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ngulilo Dispensary",
@@ -2361,7 +2360,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Manyoni District Hospital",
@@ -2399,7 +2398,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Nkoaranga Hospital",
@@ -2418,7 +2417,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "ELCT Health Department",
@@ -2437,7 +2436,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "St. Elizabeth Hospital",
@@ -2456,7 +2455,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mount Meru Regional Hospital",
@@ -2475,7 +2474,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Soweto General Hospital",
@@ -2494,7 +2493,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Agha Khan Hospital",
@@ -2513,7 +2512,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "AICC Hospital",
@@ -2532,7 +2531,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Themi Hospital",
@@ -2551,7 +2550,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Selian Lutheran Hospital",
@@ -2570,7 +2569,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Gothard Ati Isaac Onsomu Hospital ",
@@ -2608,7 +2607,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ndala Mission Hospital",
@@ -2627,7 +2626,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Hindu Hospital",
@@ -2646,7 +2645,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Tumaini Hospital",
@@ -2665,7 +2664,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Nyerere Designated District Hospital",
@@ -2684,7 +2683,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Bukongo Hospital",
@@ -2703,7 +2702,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Hydom Lutheran Hospital",
@@ -2722,7 +2721,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Konde Health Centre",
@@ -2741,7 +2740,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Ilasi Dispensary",
@@ -2760,7 +2759,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Isongole Health Centre",
@@ -2779,7 +2778,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Mbaya Dispensary",
@@ -2870,7 +2869,7 @@
                 ]
             }
         },
-		{
+        {
             "type": "Feature",
             "properties": {
                 "name": "Nkwenda Health Centre",
@@ -2906,5 +2905,4 @@
                 ]
             }
         }
-    ]
-}
+        ]}
